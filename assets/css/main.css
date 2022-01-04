@@ -1,0 +1,25 @@
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    color: black;
+}
+
+h2 {
+    font-size: 20px;
+    color: black;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 12px;
+}
