@@ -21,7 +21,7 @@ date:   2022-01-04 22:53:04 +0900
 
 ## GitHub Pages
 
-- Jekyllでデフォルトはサイトレイアウトしてくれる
+- デフォルトは、Jekyllでサイトレイアウトしてくれる
   - themeを上書きするときは、_layoutsを自作
   - Jekyllを無効化したいときは、.nojekyll
 
