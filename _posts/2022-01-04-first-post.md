@@ -6,11 +6,12 @@ date:   2022-01-04 22:53:04 +0900
 
 # やったこと
 
-- GitHub pagesでthemeを上書きして最低限の装飾ページを作成 
+- GitHub Pagesでthemeを上書きして最低限の装飾ページを作成 
 
 # メモ
 
 ## Ruby
+
 - rbenv
   - Rubyバージョン切り替えツール、venv的な
 - Rubyのライブラリ管理
@@ -19,6 +20,7 @@ date:   2022-01-04 22:53:04 +0900
   - bundler(Gemfileはこちら、pipfile的な)
 
 ## GitHub Pages
+
 - Jekyllでデフォルトはサイトレイアウトしてくれる
   - themeを上書きするときは、_layoutsを自作
   - Jekyllを無効化したいときは、.nojekyll
