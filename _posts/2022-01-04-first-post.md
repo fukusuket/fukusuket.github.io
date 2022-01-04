@@ -6,7 +6,7 @@ date:   2022-01-04 22:53:04 +0900
 
 # やったこと
 
-- GitHub Pagesでthemeを上書きして最低限の装飾ページを作成 
+- GitHub PagesでJekyllのthemeを上書きして最低限の装飾ページを作成 
 
 # メモ
 
