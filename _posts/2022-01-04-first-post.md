@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyllメモ"
+title:  "GitHub PagesでカスタムThemeのJekyll"
 date:   2022-01-04 22:53:04 +0900
 ---
 
