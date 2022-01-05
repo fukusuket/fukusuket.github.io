@@ -1,5 +1,6 @@
+source "https://rubygems.org"
+
 gem "jekyll", "~> 4.2.1"
-gem "minima", "~> 2.5"
 gem "jekyll-remote-theme"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
