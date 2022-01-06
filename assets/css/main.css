@@ -1,15 +1,14 @@
 html {
     font-family: 'Noto Sans JP', sans-serif;
+    color:DarkSlateGrey;
 }
 
 h1 {
     font-size: 24px;
-    color: black;
 }
 
 h2 {
     font-size: 20px;
-    color: black;
 }
 
 h3 {
