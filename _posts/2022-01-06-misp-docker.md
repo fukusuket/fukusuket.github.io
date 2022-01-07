@@ -80,11 +80,9 @@ ERROR: Service 'web' failed to build : Build failed
 
 ## 修正
 
-- issue
-  - https://github.com/MISP/misp-docker/issues/141
-
-- プルリク
-  - https://github.com/MISP/misp-docker/pull/142
+以下で不具合チケットとプルリクを送った
+- [issue](https://github.com/MISP/misp-docker/issues/141)
+- [プルリク](https://github.com/MISP/misp-docker/pull/142)
   
 ## 参考
 
