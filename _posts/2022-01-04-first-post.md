@@ -28,5 +28,5 @@ date:   2022-01-04 22:53:04 +0900
 
 ## 参考サイト
 
-- http://jekyllrb-ja.github.io/docs/themes/
-- https://zenn.dev/osuzuki/articles/a535b2840bbea3
+- [http://jekyllrb-ja.github.io/docs/themes/](http://jekyllrb-ja.github.io/docs/themes/)
+- [https://zenn.dev/osuzuki/articles/a535b2840bbea3](https://zenn.dev/osuzuki/articles/a535b2840bbea3)
