@@ -77,6 +77,14 @@ ERROR: Service 'web' failed to build : Build failed
 
 - Install.shのOS判定処理でコケるので、ここ修正
   - https://github.com/MISP/misp-docker/blob/master/web/INSTALL_NODB.sh#L3090
+
+## 修正
+
+- issue
+  - https://github.com/MISP/misp-docker/issues/141
+
+- プルリク
+  - https://github.com/MISP/misp-docker/pull/142
   
 ## 参考
 
