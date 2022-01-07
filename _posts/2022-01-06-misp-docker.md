@@ -8,9 +8,6 @@ date:   2022-01-06
 ## 環境情報
 
 - M1 Mac
-- 
-
-aarch64
 
 
 ## 再現手順
@@ -74,6 +71,7 @@ ERROR: Service 'web' failed to build : Build failed
 ## 調査
 
 - uname -m の結果はaarch64
+- Ubuntu20.04LTS上のDockerで発生しない
 
 ## 対処
 
