@@ -13,7 +13,7 @@ date:   2022-01-06
 ## 再現手順
 
 - README通り、実行
-  - https://github.com/misp/misp-docker#building-your-image
+  - [misp-docker#building-your-image](https://github.com/misp/misp-docker#building-your-image)
 
 ## エラー
 
@@ -76,7 +76,7 @@ ERROR: Service 'web' failed to build : Build failed
 ## 対処
 
 - Install.shのOS判定処理でコケるので、ここ修正
-  - https://github.com/MISP/misp-docker/blob/master/web/INSTALL_NODB.sh#L3090
+  - [INSTALL_NODB.sh#L3090](https://github.com/MISP/misp-docker/blob/master/web/INSTALL_NODB.sh#L3090)
 
 ## 修正
 
