@@ -23,7 +23,7 @@ date:   2022-07-02
   - [Install a Selenium library](https://www.selenium.dev/documentation/webdriver/getting_started/install_library/)
   - [Three Ways to Use Drivers](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#three-ways-to-use-drivers)
     - [1. Driver Management Software](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#1-driver-management-software)
-- [AWS Lambdaとは](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/welcome.html)
+- [AWS Lambda](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/welcome.html)
   - [AWS Lambdaの基礎](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/lambda-foundation.html)
   - [Lambda ランタイム](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/lambda-runtimes.html)
   - [.zip ファイルアーカイブで Python Lambda 関数をデプロイする](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/python-package.html)
@@ -42,15 +42,13 @@ PyCharm 2022.1.2(Community Edition)
 ### 追加でやったこと
 
 ```Bash
-mkdir example
-cd example
 pip install selenium
 pip install webdriver_manager
 ```
 
 ## ローカル開発環境での動作確認
 
-①以下コード実行
+①以下コード実行して、
 
 ```Python
 from selenium import webdriver
@@ -78,6 +76,8 @@ driver.quit()
 Example Domain
 
 ```
+
+とりあえずここまでで、ローカル環境で、head-lessモードでSeleniumが動作することを確認できた☺
 
 ## 　はまったこと
 
