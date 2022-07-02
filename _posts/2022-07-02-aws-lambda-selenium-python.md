@@ -13,8 +13,9 @@ date:   2022-07-02
 1. 技術要素の確認
 2. ローカル開発環境の作成
 3. ローカル開発環境での動作確認
-4. AWS Lambda関数の作成
-5. AWS Lambda関数をデプロイ
+4. ローカル開発環境とAWS Lambda環境の差分を考える
+5. AWS Lambda関数の作成
+6. AWS Lambda関数をデプロイ
 
 ## 技術要素の確認
 
@@ -84,6 +85,7 @@ Example Domain
 
 ここまでで、ローカルで、head-lessモードが動作することを確認☺
 
-## 　はまったこと
+## 　ローカル開発環境とAWS Lambda環境の差分を考える
 
-- TODO
+- [Lambda ランタイム](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/lambda-runtimes.html)によるとLambdaはAmazon Linux2で動く
+  - ので、Amazon Linux2でSeleniumが動作する環境を用意する必要がある
