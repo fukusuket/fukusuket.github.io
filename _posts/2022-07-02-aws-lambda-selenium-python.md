@@ -8,14 +8,13 @@ date:   2022-07-02
 
 - AWS Lambda上で、Seleniumを使ってスクレイピング
 
-## やることのながれ
+## やったことのながれ
 
 1. 技術要素の確認
 2. ローカル開発環境の作成
 3. ローカル開発環境での動作確認
-4. ローカル開発環境とAWS Lambda環境の差分を考える
-5. AWS Lambda関数の作成
-6. AWS Lambda関数をデプロイ
+4. AWS Lambda関数の作成/デプロイ
+5. ローカル開発環境とAWS Lambda環境の差分を考える
 
 ## 技術要素の確認
 
@@ -85,12 +84,26 @@ Example Domain
 
 ここまでで、ローカルで、head-lessモードが動作することを確認
 
+## AWS Lambda関数の作成/デプロイ
+
+[.zip ファイルアーカイブで Python Lambda 関数をデプロイする](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/python-package.html)の手順に従い、関数をデプロイ
+
+以下のエラーになる ... chromedriverがstatus code 127でクラッシュしてる
+```Bash
+{
+  "errorMessage": "Message: Service /tmp/.wdm/drivers/chromedriver/linux64/103.0.5060.53/chromedriver unexpectedly exited. Status code was: 127\n",
+  "errorType": "WebDriverException",
+  "stackTrace": [
+    "  File \"/var/task/lambda_function.py\", line 10, in lambda_handler\n    driver = webdriver.Chrome(service=service, options=options)\n",
+    "  File \"/var/task/selenium/webdriver/chrome/webdriver.py\", line 69, in __init__\n    super().__init__(DesiredCapabilities.CHROME['browserName'], \"goog\",\n",
+    "  File \"/var/task/selenium/webdriver/chromium/webdriver.py\", line 89, in __init__\n    self.service.start()\n",
+    "  File \"/var/task/selenium/webdriver/common/service.py\", line 98, in start\n    self.assert_process_still_running()\n",
+    "  File \"/var/task/selenium/webdriver/common/service.py\", line 110, in assert_process_still_running\n    raise WebDriverException(\n"
+  ]
+}
+```
+
 ## 　ローカル開発環境とAWS Lambda環境の差分を考える
 
 - [Lambda ランタイム](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/lambda-runtimes.html)によるとLambdaはAmazon Linux2で動く
   - ので、Amazon Linux2でSeleniumが動作する環境を用意する必要がある
-
-## TODO
-
-- TODO
-
