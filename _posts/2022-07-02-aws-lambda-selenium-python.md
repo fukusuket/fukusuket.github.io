@@ -83,9 +83,14 @@ driver.quit()
 Example Domain
 ```
 
-ここまでで、ローカルで、head-lessモードが動作することを確認☺
+ここまでで、ローカルで、head-lessモードが動作することを確認
 
 ## 　ローカル開発環境とAWS Lambda環境の差分を考える
 
 - [Lambda ランタイム](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/lambda-runtimes.html)によるとLambdaはAmazon Linux2で動く
   - ので、Amazon Linux2でSeleniumが動作する環境を用意する必要がある
+
+## TODO
+
+- TODO
+
