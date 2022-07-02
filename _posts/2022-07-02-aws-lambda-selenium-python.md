@@ -46,6 +46,12 @@ pip install selenium
 pip install webdriver_manager
 ```
 
+```Bash
+pip list
+selenium           4.3.0
+webdriver-manager  3.7.1
+```
+
 ## ローカル開発環境での動作確認
 
 ①以下コード実行して、
@@ -74,10 +80,9 @@ driver.quit()
 [WDM] - Get LATEST chromedriver version for 103.0.5060 google-chrome
 [WDM] - Driver [/tmp/.wdm/drivers/chromedriver/mac64/103.0.5060.53/chromedriver] found in cache
 Example Domain
-
 ```
 
-とりあえずここまでで、ローカル環境で、head-lessモードでSeleniumが動作することを確認できた☺
+ここまでで、ローカルで、head-lessモードが動作することを確認☺
 
 ## 　はまったこと
 
