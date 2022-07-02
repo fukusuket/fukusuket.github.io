@@ -13,7 +13,7 @@ date:   2022-07-02
 1. 技術要素の確認
 2. ローカル開発環境の作成
 3. ローカル開発環境での動作確認
-4. AWS Lambda関数の作成/デプロイ -> エラー 
+4. AWS Lambda関数の作成/デプロイ -> エラー
 
 ## 技術要素の確認
 
@@ -87,7 +87,7 @@ Example Domain
 
 [.zip ファイルアーカイブで Python Lambda 関数をデプロイする](https://docs.aws.amazon.com/ja_jp/lambda/latest/dg/python-package.html)の手順に従い、関数をデプロイ
 
-以下のエラーになる ... chromedriverがstatus code 127でクラッシュしてる
+以下のエラーに ... chromedriverがstatus code 127でクラッシュしてる
 ```Bash
 {
   "errorMessage": "Message: Service /tmp/.wdm/drivers/chromedriver/linux64/103.0.5060.53/chromedriver unexpectedly exited. Status code was: 127\n",
@@ -103,11 +103,4 @@ Example Domain
 ```
 
 [Stack Overflow: WebDriverException: Message: Service chromedriver unexpectedly exited. Status code was: 127](https://stackoverflow.com/questions/49323099/webdriverexception-message-service-chromedriver-unexpectedly-exited-status-co)
-によると、いくつかOS側のライブラリがないと動かないらしい
-
-```Bash
-apt-get install -y libglib2.0-0=2.50.3-2 \
-    libnss3=2:3.26.2-1.1+deb9u1 \
-    libgconf-2-4=3.2.6-4+b1 \
-    libfontconfig1=2.11.0-6.7+b1
-```
+によると、いくつかOS側のライブラリがないと動かないらしい ... うーん厳しい。
