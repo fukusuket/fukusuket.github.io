@@ -32,14 +32,16 @@ date:   2022-07-02
 
 ### 自分の環境
 
-- M1チップMacBook Air
-- macOS Monterey 12.4
-- Python 3.9.12
-- PyCharm 2022.1.2(Community Edition)
+```Markdown
+M1チップMacBook Air
+macOS Monterey 12.4
+Python 3.9.12
+PyCharm 2022.1.2(Community Edition)
+```
 
 ### 追加でやったこと
 
-```bash
+```Bash
 mkdir example
 cd example
 pip install selenium
