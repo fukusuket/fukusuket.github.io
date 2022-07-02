@@ -50,7 +50,8 @@ pip install webdriver_manager
 
 ## ローカル開発環境での動作確認
 
-以下コード実行で、
+①以下コード実行
+
 ```Python
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
@@ -66,7 +67,7 @@ print(driver.title)
 driver.quit()
 ```
 
-以下の出力を確認。（headlessモードなので、ブラウザGUI起動はなし）
+②以下の出力を確認。（headlessモードなので、ブラウザGUI起動はなし）
 
 ```bash
 [WDM] - ====== WebDriver manager ======
