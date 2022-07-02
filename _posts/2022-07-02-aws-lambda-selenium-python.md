@@ -42,8 +42,8 @@ date:   2022-07-02
 ```bash
 mkdir example
 cd example
-pip install -t ./package selenium
-pip install -t ./package webdriver_manager
+pip install selenium
+pip install webdriver_manager
 ```
 
 ## ローカル開発環境での動作確認
