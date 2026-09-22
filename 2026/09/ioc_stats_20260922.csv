@@ -44,3 +44,4 @@ date,vendor,iocs,title,blog url
 2026-09-08,DarkReading,7,ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2,https://blog.talosintelligence.com/clickfix-moves-into-the-browser/
 2026-09-08,DarkReading,28,"ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
 2026-09-08,DarkReading,40,Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust,https://blog.knowbe4.com/bypassing-the-gatekeepers-how-a-global-phishing-campaign-turns-googles-infrastructure-into-a-trust-proxy
+2026-09-22,The Hacker News,7,EvilTokens and OAuth Abuse: How Device Code Phishing Bypasses MFA,https://www.netcraft.com/blog/eviltokens-and-oauth-abuse
