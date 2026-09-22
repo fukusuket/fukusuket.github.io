@@ -85,7 +85,7 @@ STYLE = """\
 * { box-sizing: border-box; }
 body {
   margin: 0;
-  padding: 3rem 1rem 5rem;
+  padding: 3rem clamp(1rem, 4vw, 4rem) 5rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Inter", ui-sans-serif, system-ui, -apple-system,
@@ -93,7 +93,7 @@ body {
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
-main { max-width: 46rem; margin: 0 auto; }
+main { width: 100%; margin: 0 auto; }
 h1 { font-size: 1.5rem; font-weight: 650; letter-spacing: -0.01em; margin: 0; }
 .meta { color: var(--muted); font-size: 0.85rem; margin: 0.35rem 0 2.75rem; }
 h2 {
@@ -159,7 +159,8 @@ def render(groups, total):
             parts.append(
                 "<li>"
                 f'<a href="{html.escape(article["url"], quote=True)}" '
-                f'rel="noopener noreferrer">{html.escape(article["title"])}</a>'
+                f'target="_blank" rel="noopener noreferrer">'
+                f'{html.escape(article["title"])}</a>'
                 f'<span class="vendor">{html.escape(article["vendor"])}</span>'
                 "</li>"
             )
@@ -168,7 +169,8 @@ def render(groups, total):
     parts += [
         '<footer>Collected with '
         '<a href="https://github.com/fukusuket/ThreatfeedCollector" '
-        'rel="noopener noreferrer">ThreatfeedCollector</a>.</footer>',
+        'target="_blank" rel="noopener noreferrer">ThreatfeedCollector</a>.'
+        "</footer>",
         "</main>",
         "</body>",
         "</html>",
