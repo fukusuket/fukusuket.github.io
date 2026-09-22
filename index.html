@@ -1,18 +1,81 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-    <style type="text/tailwindcss">
-        @theme {
-            --color-clifford: #da373d;
-        }
-    </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Threat Research Feed</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&amp;display=swap">
+<style>
+:root {
+  color-scheme: light dark;
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #6b7280;
+  --rule: #e5e7eb;
+  --link: #1d4ed8;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #101214;
+    --fg: #e8e8e8;
+    --muted: #9099a6;
+    --rule: #262b31;
+    --link: #7ba7ff;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 3rem 1rem 5rem;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Inter", ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+main { max-width: 46rem; margin: 0 auto; }
+h1 { font-size: 1.5rem; font-weight: 650; letter-spacing: -0.01em; margin: 0; }
+.meta { color: var(--muted); font-size: 0.85rem; margin: 0.35rem 0 2.75rem; }
+h2 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  margin: 2.5rem 0 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+ul { list-style: none; margin: 0; padding: 0; }
+li { padding: 0.45rem 0; }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.vendor {
+  display: block;
+  color: var(--muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.01em;
+}
+.empty { color: var(--muted); }
+footer {
+  margin-top: 4rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+</style>
 </head>
 <body>
-<h1 class="text-3xl font-bold underline text-clifford">
-    Hello world!
-</h1>
+<main>
+<h1>Threat Research Feed</h1>
+<p class="meta">Last 7 days &middot; 0 articles &middot; updated 2026-09-22 11:18 UTC</p>
+<p class="empty">No articles collected yet.</p>
+<footer>Collected with <a href="https://github.com/fukusuket/ThreatfeedCollector" rel="noopener noreferrer">ThreatfeedCollector</a>.</footer>
+</main>
 </body>
 </html>
