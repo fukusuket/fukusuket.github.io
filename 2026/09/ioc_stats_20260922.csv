@@ -25,3 +25,9 @@ date,vendor,iocs,title,blog url
 2026-09-21,The Hacker News,14,Beyond Lazarus: How North Korea Organizes Its Cyber Operations,https://www.sekoia.com/blog/beyond-lazarus-organization-of-dprk-cyber-capabilities
 2026-09-21,The Hacker News,16,"Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distri",https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer
 2026-09-22,The Hacker News,10,PolinRider Spreads Through Compromised GitHub Accounts and Packagist | Socket,https://socket.dev/blog/polinrider-github-packagist
+2026-09-14,Sekoia,121,Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework,https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework
+2026-09-15,Censys,8,Mythic C2 Activity at Internet Scale,https://censys.com/blog/mythic-c2/
+2026-09-14,Elastic Security Labs,119,The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking ses,https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-banking-malware
+2026-09-17,The Hacker News,6,"Iranian cyber targeting of dissidents, activists and journalists | National Cyber Security Centre",https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists
+2026-09-21,The Hacker News,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign
+2026-09-21,The Hacker News,15,Threat Actors Abuse claude.ai Shared Chat for ClickFix Malvertising Campaign | Trend Micro,https://www.trendmicro.com/en/research/26/f/claudeai-shared-chat-abused-in-malvertising.html
