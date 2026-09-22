@@ -31,3 +31,16 @@ date,vendor,iocs,title,blog url
 2026-09-17,The Hacker News,6,"Iranian cyber targeting of dissidents, activists and journalists | National Cyber Security Centre",https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists
 2026-09-21,The Hacker News,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign
 2026-09-21,The Hacker News,15,Threat Actors Abuse claude.ai Shared Chat for ClickFix Malvertising Campaign | Trend Micro,https://www.trendmicro.com/en/research/26/f/claudeai-shared-chat-abused-in-malvertising.html
+2026-09-10,Fortinet,61,Casbaneiro: A Banking Trojan with Distributed Data-Receiving Servers,https://feeds.fortinet.com/~/968920310/0/fortinet/blog/threat-research~Casbaneiro-A-Banking-Trojan-with-Distributed-DataReceiving-Servers
+2026-09-09,Microsoft Security Blog,19,Passkey-themed social engineering leads to identity and cloud compromise,https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/
+2026-09-10,Microsoft Security Blog,11,Protecting organizations from AI-assisted executive impersonation and invoice fraud,https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/
+2026-09-09,ProofPoint,91,Once in a BlueMoon: Multiple State-Aligned Threat Actors Rapidly Adopt Novel Exploit Chain Using Chr,https://www.proofpoint.com/us/blog/threat-insight/once-bluemoon-multiple-state-aligned-threat-actors-rapidly-adopt-novel-exploit
+2026-09-10,Unit42(Palo Alto Networks),7,The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE,https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
+2026-09-09,Huntress Labs,17,Rogue ScreenConnect Installations Across Unrelated Hosts Suggest Worm-Like Activity,https://www.huntress.com/blog/rogue-screenconnect-installations
+2026-09-09,Huntress Labs,19,"Phishing Attacks Serve Browser-in-the-Browser Pages, Rogue RMM Persistence",https://www.huntress.com/blog/phishing-bitb-rmm-attacks
+2026-09-09,Huntress Labs,22,Grand Theft Auto VI hype leads to malware,https://www.huntress.com/blog/fake-gta6-download-malware-analysis
+2026-09-09,Volexity,36,Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows,https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/
+2026-09-11,Censys,10,No One Inside The Machine,https://censys.com/blog/no-one-inside-the-machine/
+2026-09-08,DarkReading,7,ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2,https://blog.talosintelligence.com/clickfix-moves-into-the-browser/
+2026-09-08,DarkReading,28,"ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
+2026-09-08,DarkReading,40,Bypassing the Gatekeepers: How a Global Phishing Campaign Turns Google's Infrastructure into a Trust,https://blog.knowbe4.com/bypassing-the-gatekeepers-how-a-global-phishing-campaign-turns-googles-infrastructure-into-a-trust-proxy
