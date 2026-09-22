@@ -1,0 +1,27 @@
+date,vendor,iocs,title,blog url
+2026-09-15,CrowdStrike,9,PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting,https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/
+2026-09-17,ESET WeLiveSecurity,19,"Beware the SparroWock: The backdoor that bites, the commands that catch",https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/
+2026-09-18,SentinelOne,44,"Don’t Call Us, We’ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Tie",https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/
+2026-09-15,Huntress Labs,4,Google Doc Sidebar Sends Mac and Windows Users Down Different Paths to Malware,https://www.huntress.com/blog/google-doc-sidebar-malware-mac-windows
+2026-09-17,Securelist,13,The Odyssey and Trojans again: MovieReaper attacks users in multiple countries through compromised t,https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/
+2026-09-21,Securelist,14,Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO,https://securelist.com/tr/payload-ransomware-via-group-policy/121335/
+2026-09-22,gbhackers.,21,"Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits | Volexit",https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/
+2026-09-14,DarkReading,17,Active exploitation of Cisco Secure Firewall Management Center vulnerabilities,https://blog.talosintelligence.com/fmc-ongoing-exploitation/
+2026-09-16,The Hacker News,48,Разбираем инструментарий группировки Hacking Cat (Хакерский кiт) | Securelist,https://securelist.ru/tr/hacking-cat/117062/
+2026-09-16,The Hacker News,13,Хактивисты C.A.S атакуют российские организации при помощи редких RAT | Securelist,https://securelist.ru/cyber-anarchy-squad-attacks-with-uncommon-trojans/111309/
+2026-09-17,The Hacker News,112,HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack | Group-IB Blog,https://www.group-ib.com/blog/heavygram-handala-hack-telegram-c2/
+2026-09-17,The Hacker News,20,Dark Web Profile: Handala Hack,https://socradar.io/blog/dark-web-profile-handala-hack/
+2026-09-17,The Hacker News,326,Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure,https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
+2026-09-17,The Hacker News,116,SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central A,https://hunt.io/blog/silkparasite-spicerat-central-asia-infrastructure
+2026-09-17,The Hacker News,60,Casbaneiro: A Banking Trojan with Distributed Data-Receiving Servers | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/casbaneiro-a-banking-trojan-with-distributed-data-receiving-servers
+2026-09-17,The Hacker News,10,Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America,https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+2026-09-17,The Hacker News,29,SloppyRAT: A New Tool For Ransomware Attacks | ThreatLabz,https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks
+2026-09-18,The Hacker News,17,Tech Note - BeaverTail variant distributed via malicious repositories and ClickFix lure - GitLab Sec,https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/north-korean-malware-sept-2025/
+2026-09-18,The Hacker News,21,Operation RapidRust: New APT36 Malware Tools | ThreatLabz,https://www.zscaler.com/blogs/security-research/operation-rapidrust-apt36-deploys-rustyshade-rustymove-psnatch-and
+2026-09-19,The Hacker News,6,TanStack supply chain attack affecting Mistral SDK packages | Mistral Docs,https://docs.mistral.ai/resources/security-advisories/MAI-2026-002
+2026-09-21,The Hacker News,15,ChainScript: Tracing a Node.js RAT Through the Blockchain - Blackpoint Cyber,https://blackpointcyber.com/blog/chainscript-tracing-a-nodejs-rat-across-the-blockchain/
+2026-09-21,The Hacker News,279,PasteSwitch Clickfix Operation Compromises HBO on Reddit,https://adamnet.works/blog/hbo-max-ads-exposed-the-pasteswitch-clickfix-operation/
+2026-09-21,The Hacker News,34,When Trust Becomes the Payload in a Fake Codex ClickFix Campaign| Cato Networks,https://www.catonetworks.com/blog/cato-ctrl-when-trust-becomes-payload-in-fake-codex-clickfix-campaign/
+2026-09-21,The Hacker News,14,Beyond Lazarus: How North Korea Organizes Its Cyber Operations,https://www.sekoia.com/blog/beyond-lazarus-organization-of-dprk-cyber-capabilities
+2026-09-21,The Hacker News,16,"Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distri",https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer
+2026-09-22,The Hacker News,10,PolinRider Spreads Through Compromised GitHub Accounts and Packagist | Socket,https://socket.dev/blog/polinrider-github-packagist
