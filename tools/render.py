@@ -136,7 +136,7 @@ def render(groups, total):
         "<head>",
         '<meta charset="utf-8">',
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
-        "<title>Threat Research Feed</title>",
+        "<title>neko-tanuki-furoshiki feed</title>",
         '<link rel="preconnect" href="https://fonts.googleapis.com">',
         '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
         '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?'
@@ -145,7 +145,7 @@ def render(groups, total):
         "</head>",
         "<body>",
         "<main>",
-        "<h1>Threat Research Feed</h1>",
+        "<h1>neko-tanuki-furoshiki feed</h1>",
         f'<p class="meta">Last {WINDOW_DAYS} days &middot; {total} articles '
         f"&middot; updated {generated}</p>",
     ]
