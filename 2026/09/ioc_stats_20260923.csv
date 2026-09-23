@@ -5,3 +5,26 @@ date,vendor,iocs,title,blog url
 2026-09-22,The Hacker News,7,EvilTokens and OAuth Abuse: How Device Code Phishing Bypasses MFA,https://www.netcraft.com/blog/eviltokens-and-oauth-abuse
 2026-09-22,The Hacker News,81,Cloudflare participates in global operation to disrupt EvilTokens Phishing-as-a-Service | Cloudflare,https://www.cloudflare.com/threat-intelligence/research/report/cloudflare-participates-in-global-operation-to-disrupt-eviltokens-phishing-as-a-service/
 2026-09-23,The Hacker News,23,"Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits | Volexit",https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/
+2026-09-17,ESET WeLiveSecurity,19,"Beware the SparroWock: The backdoor that bites, the commands that catch",https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/
+2026-09-18,SentinelOne,59,"Don’t Call Us, We’ll Call Your APIs | TraderTraitor Backdoors Resurface on Victim With No Crypto Tie",https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/
+2026-09-16,Zscaler ThreatLabz,21,"Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH",https://www.zscaler.com/blogs/security-research/operation-rapidrust-apt36-deploys-rustyshade-rustymove-psnatch-and
+2026-09-17,Securelist,14,The Odyssey and Trojans again: MovieReaper attacks users in multiple countries through compromised t,https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/
+2026-09-21,Securelist,14,Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO,https://securelist.com/tr/payload-ransomware-via-group-policy/121335/
+2026-09-17,The Hacker News,118,HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack | Group-IB Blog,https://www.group-ib.com/blog/heavygram-handala-hack-telegram-c2/
+2026-09-17,The Hacker News,6,"Iranian cyber targeting of dissidents, activists and journalists | National Cyber Security Centre",https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists
+2026-09-17,The Hacker News,22,Dark Web Profile: Handala Hack,https://socradar.io/blog/dark-web-profile-handala-hack/
+2026-09-17,The Hacker News,333,Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure,https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/
+2026-09-17,The Hacker News,117,SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central A,https://hunt.io/blog/silkparasite-spicerat-central-asia-infrastructure
+2026-09-17,The Hacker News,61,Casbaneiro: A Banking Trojan with Distributed Data-Receiving Servers | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/casbaneiro-a-banking-trojan-with-distributed-data-receiving-servers
+2026-09-17,The Hacker News,16,Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America,https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/
+2026-09-17,The Hacker News,32,SloppyRAT: A New Tool For Ransomware Attacks | ThreatLabz,https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks
+2026-09-18,The Hacker News,14,PhantomRaven: LLM-generated Information Stealer for Bug Bounty Hunting,https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/
+2026-09-18,The Hacker News,19,Tech Note - BeaverTail variant distributed via malicious repositories and ClickFix lure - GitLab Sec,https://gitlab-com.gitlab.io/gl-security/security-tech-notes/threat-intelligence-tech-notes/north-korean-malware-sept-2025/
+2026-09-19,The Hacker News,8,TanStack supply chain attack affecting Mistral SDK packages | Mistral Docs,https://docs.mistral.ai/resources/security-advisories/MAI-2026-002
+2026-09-21,The Hacker News,15,ChainScript: Tracing a Node.js RAT Through the Blockchain - Blackpoint Cyber,https://blackpointcyber.com/blog/chainscript-tracing-a-nodejs-rat-across-the-blockchain/
+2026-09-21,The Hacker News,282,PasteSwitch Clickfix Operation Compromises HBO on Reddit,https://adamnet.works/blog/hbo-max-ads-exposed-the-pasteswitch-clickfix-operation/
+2026-09-21,The Hacker News,35,When Trust Becomes the Payload in a Fake Codex ClickFix Campaign| Cato Networks,https://www.catonetworks.com/blog/cato-ctrl-when-trust-becomes-payload-in-fake-codex-clickfix-campaign/
+2026-09-21,The Hacker News,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign
+2026-09-21,The Hacker News,15,Threat Actors Abuse claude.ai Shared Chat for ClickFix Malvertising Campaign | Trend Micro,https://www.trendmicro.com/en/research/26/f/claudeai-shared-chat-abused-in-malvertising.html
+2026-09-21,The Hacker News,14,Beyond Lazarus: How North Korea Organizes Its Cyber Operations,https://www.sekoia.com/blog/beyond-lazarus-organization-of-dprk-cyber-capabilities
+2026-09-21,The Hacker News,20,"Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distri",https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer
