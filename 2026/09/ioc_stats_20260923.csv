@@ -1,0 +1,7 @@
+date,vendor,iocs,title,blog url
+2026-09-22,Huntress Labs,21,[object Object],https://www.huntress.com/blog/darkme-rat-abandons-exploits
+2026-09-23,gbhackers.,7,Graphalgo Malware Spreads to Terraform and Go,https://www.aikido.dev/blog/graphalgo-terraform-go-modules
+2026-09-22,The Hacker News,10,PolinRider Spreads Through Compromised GitHub Accounts and Packagist | Socket,https://socket.dev/blog/polinrider-github-packagist
+2026-09-22,The Hacker News,7,EvilTokens and OAuth Abuse: How Device Code Phishing Bypasses MFA,https://www.netcraft.com/blog/eviltokens-and-oauth-abuse
+2026-09-22,The Hacker News,81,Cloudflare participates in global operation to disrupt EvilTokens Phishing-as-a-Service | Cloudflare,https://www.cloudflare.com/threat-intelligence/research/report/cloudflare-participates-in-global-operation-to-disrupt-eviltokens-phishing-as-a-service/
+2026-09-23,The Hacker News,23,"Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits | Volexit",https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/
