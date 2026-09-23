@@ -62,7 +62,7 @@ jobs:
       - name: Collect
         env:
           # The inputs context is empty on a schedule run, so it falls back to 1.
-          DAYS_BACK: ${{ inputs.days_back || '1' }}
+          DAYS_BACK: ${{ inputs.days_back || '7' }}
         working-directory: collector
         run: python3 ioc_collect.py --no-misp
 
