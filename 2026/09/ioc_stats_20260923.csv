@@ -41,3 +41,10 @@ date,vendor,iocs,title,blog url
 2026-09-15,Censys,8,Mythic C2 Activity at Internet Scale,https://censys.com/blog/mythic-c2/
 2026-09-14,Elastic Security Labs,119,The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking ses,https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-banking-malware
 2026-09-23,gbhackers.,10,New PamStealer variant targets macOS via fake crypto wallet,https://www.jamf.com/blog/pamstealer-wavel-macos-infostealer/
+2026-09-23,BleepingComputer,20,AI Agents Are Hacking Online Retailers for $25 a Company,https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+2026-09-23,BleepingComputer,38,RemControl: AI Built the Overlays. Victims Lose their PINs | Group-IB Blog,https://www.group-ib.com/blog/remcontrol-android-banking-trojan/
+2026-09-23,The Hacker News,28,MemTensor npm and PyPI Packages Hit by a Go Worm - Real-time Open Source Software Supply Chain Secur,https://safedep.io/memtensor-sckit-worm-npm-pypi/
+2026-09-23,The Hacker News,27,MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack | Socket,https://socket.dev/blog/memtensor-compromise
+2026-09-23,The Hacker News,22,Sckit Supply Chain Worm Hits MemTensor npm & PyPi scopes - StepSecurity,https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes
+2026-09-23,The Hacker News,24,Why Does an npm Math Library Need an Encrypted Loader? - Real-time Open Source Software Supply Chain,https://safedep.io/mathmain-encrypted-loader/
+2026-09-23,The Hacker News,6,How DPRK’s Contagious Interview Campaign Targets Developers - Kudelski Security Research Center,https://kudelskisecurity.com/research/how-dprks-contagious-interview-campaign-targets-developers
