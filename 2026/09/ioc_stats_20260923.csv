@@ -30,3 +30,14 @@ date,vendor,iocs,title,blog url
 2026-09-21,The Hacker News,20,"Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distri",https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer
 2026-09-23,gbhackers.,83,"Disposable Domains, Durable Hosting — ActiveSOC Blog",https://activesoc.blackhillsinfosec.com/blog/disposable-domains-durable-hosting/
 2026-09-23,gbhackers.,121,Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework,https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework
+2026-09-10,Fortinet,61,Casbaneiro: A Banking Trojan with Distributed Data-Receiving Servers,https://feeds.fortinet.com/~/968920310/0/fortinet/blog/threat-research~Casbaneiro-A-Banking-Trojan-with-Distributed-DataReceiving-Servers
+2026-09-09,Cisco Talos,17,Active exploitation of Cisco Secure Firewall Management Center vulnerabilities,https://blog.talosintelligence.com/fmc-ongoing-exploitation/
+2026-09-10,Unit42(Palo Alto Networks),7,The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE,https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/
+2026-09-09,Microsoft Security Blog,19,Passkey-themed social engineering leads to identity and cloud compromise,https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/
+2026-09-10,Microsoft Security Blog,11,Protecting organizations from AI-assisted executive impersonation and invoice fraud,https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/
+2026-09-15,Huntress Labs,4,Google Doc Sidebar Sends Mac and Windows Users Down Different Paths to Malware,https://www.huntress.com/blog/google-doc-sidebar-malware-mac-windows
+2026-09-09,Volexity,36,Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows,https://www.volexity.com/blog/2026/09/09/mind-the-patch-gap-multiple-chinese-threat-actors-chain-0-day-exploits-in-chrome-windows/
+2026-09-11,Censys,10,No One Inside The Machine,https://censys.com/blog/no-one-inside-the-machine/
+2026-09-15,Censys,8,Mythic C2 Activity at Internet Scale,https://censys.com/blog/mythic-c2/
+2026-09-14,Elastic Security Labs,119,The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking ses,https://www.elastic.co/security-labs/threat-command/malicious-browser-extension-kremlin-banking-malware
+2026-09-23,gbhackers.,10,New PamStealer variant targets macOS via fake crypto wallet,https://www.jamf.com/blog/pamstealer-wavel-macos-infostealer/
