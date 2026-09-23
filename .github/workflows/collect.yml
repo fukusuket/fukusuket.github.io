@@ -2,14 +2,14 @@ name: Collect threat feeds
 
 on:
   schedule:
-    - cron: "23 10 * * *"   # 19:23 JST
-    - cron: "23 21 * * *"   # 06:23 JST (next day)
+    - cron: "23 7 * * *"    # 16:23 JST (GitHub delays schedules by hours; ~3h early)
+    - cron: "23 18 * * *"   # 03:23 JST (next day)
   workflow_dispatch:
     inputs:
       days_back:
         description: "Days of feed history to collect (DAYS_BACK)"
         required: false
-        default: "1"
+        default: "7"
         type: string
 
 # Default for every job; the publish job raises its own.
@@ -48,8 +48,8 @@ jobs:
         run: pip install -r collector/requirements.txt
 
       # The collector merges into an existing ioc_stats_<date>.csv in its CWD and
-      # dedupes on blog url, so restoring today's file keeps the 19:37 JST run
-      # from dropping what the 06:37 JST run already collected.
+      # dedupes on blog url, so restoring today's file keeps the 03:23 JST run
+      # from dropping what the 16:23 JST run already collected.
       - name: Restore today's CSV for merging
         run: |
           d=$(date -u +%Y%m%d)
