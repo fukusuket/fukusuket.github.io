@@ -29,3 +29,19 @@ date,vendor,iocs,title,blog url
 2026-09-24,The Hacker News,6,"Inside Corp MDM, the Android spyware targeting logistics companies - Have I Been Squatted",https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics
 2026-09-24,The Hacker News,11,Diesel Vortex: Exploring connections to Russian LLCs - Ctrl-Alt-Intel,https://ctrlaltintel.com/research/DieselVortex/
 2026-09-24,The Hacker News,7,Diesel Vortex phishing operation targeting freight - Have I Been Squatted,https://haveibeensquatted.com/blog/diesel-vortex-inside-the-russian-cybercrime-group-targeting-us-eu-freight
+2026-09-24,Fortinet,31,Uncovering a SectopRAT Variant Embedded in Legitimate Software,https://feeds.fortinet.com/~/969841961/0/fortinet/blog/threat-research~Uncovering-a-SectopRAT-Variant-Embedded-in-Legitimate-Software
+2026-09-24,Arctic Wolf,20,The Psychedelic Stealer: When a CAPTCHA Becomes an Installer,https://arcticwolf.com/resources/blog/psychedelic-stealer-fake-clickfix-captcha-targets-ukraine/
+2026-09-23,BleepingComputer,9,third-party.com Placeholder Domain Now Serves ClickFix,https://www.manifold.security/blog/third-party-com-placeholder-clickfix
+2026-09-24,BleepingComputer,6,​CARBONATO:​ ​a​ ​botnet​ ​built​ ​around an AI agent​ | ThreatDown,https://www.threatdown.com/blog/carbonato/
+2026-09-24,DarkReading,31,Uncovering a SectopRAT Variant Embedded in Legitimate Software | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/uncovering-a-sectoprat-variant-embedded-in-legitimate-software
+2026-09-24,DarkReading,20,A Wretch Client: From ClickFix deception to information stealer deployment,https://www.elastic.co/security-labs/threat-command/a-wretch-client
+2026-09-24,DarkReading,18,Distribution of SectopRAT (ArechClient2) Disguised as Notion Installer - ASEC,https://asec.ahnlab.com/en/83621/
+2026-09-24,DarkReading,35,Converging Ransomware Tradecraft: Analysis of a Multi-Phase Attack | Bridewell,https://www.bridewell.com/insights/blogs/detail/converging-ransomware-tradecraft-analysis-of-a-multi-phase-attack
+2026-09-24,The Hacker News,12,RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft - Blackp,https://blackpointcyber.com/blog/remotepanel-and-boundsiphon-a-dual-payload-toolkit-for-persistent-access-and-browser-theft/
+2026-09-24,The Hacker News,4,ClickFix Attack: How ClickFix Malware Scam Works | Group-IB,https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/
+2026-09-24,The Hacker News,16,Placeholder Domains Whose Ads Serve Scams,https://www.manifold.security/blog/placeholder-domains-ads-serve-scams
+2026-09-24,The Hacker News,121,Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework,https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework
+2026-09-24,The Hacker News,19,Deep-Live-Cam Supply Chain Attack: Technical Analysis - Real-time Open Source Software Supply Chain ,https://safedep.io/deep-live-cam-supply-chain-attack/
+2026-09-24,The Hacker News,7,A malicious npm package hidden three dependencies deep: the ulid-xyz delivery chain - Real-time Open,https://safedep.io/ulid-xyz-transitive-dependency-delivery-chain/
+2026-09-24,The Hacker News,5,Chatbot Conundrum: Phishing Attempts of OpenAI’s ChatGPT,https://cofense.com/blog/chatbot-conundrum-phishing-attempts-of-openai-s-chatgpt
+2026-09-24,The Hacker News,21,From Payment Plan to Ransomware - Inside a Global Group Attack,https://cofense.com/blog/from-payment-plan-to-ransomware-inside-a-global-group-attack
