@@ -41,3 +41,6 @@ date,vendor,iocs,title,blog url
 2026-09-24,The Hacker News,7,A malicious npm package hidden three dependencies deep: the ulid-xyz delivery chain - Real-time Open,https://safedep.io/ulid-xyz-transitive-dependency-delivery-chain/
 2026-09-24,The Hacker News,5,Chatbot Conundrum: Phishing Attempts of OpenAI’s ChatGPT,https://cofense.com/blog/chatbot-conundrum-phishing-attempts-of-openai-s-chatgpt
 2026-09-24,The Hacker News,21,From Payment Plan to Ransomware - Inside a Global Group Attack,https://cofense.com/blog/from-payment-plan-to-ransomware-inside-a-global-group-attack
+2026-09-25,Microsoft Security Blog,3,Storm-3168: Agentic-driven cloud attacks using compromised service principals,https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+2026-09-25,Zscaler ThreatLabz,12,Threat Actors Use Google Ads To Target Ledger Users,https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users
+2026-09-25,The Hacker News,10,New PamStealer variant targets macOS via fake crypto wallet,https://www.jamf.com/blog/pamstealer-wavel-macos-infostealer/
