@@ -1,0 +1,38 @@
+date,vendor,iocs,title,blog url
+2026-09-24,Fortinet,31,Uncovering a SectopRAT Variant Embedded in Legitimate Software,https://feeds.fortinet.com/~/969841961/0/fortinet/blog/threat-research~Uncovering-a-SectopRAT-Variant-Embedded-in-Legitimate-Software
+2026-09-24,Arctic Wolf,20,The Psychedelic Stealer: When a CAPTCHA Becomes an Installer,https://arcticwolf.com/resources/blog/psychedelic-stealer-fake-clickfix-captcha-targets-ukraine/
+2026-09-25,Microsoft Security Blog,3,Storm-3168: Agentic-driven cloud attacks using compromised service principals,https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+2026-09-22,Huntress Labs,22,DarkMe RAT: A VB6 APT Trojan Turned Conventional Infostealer,https://www.huntress.com/blog/darkme-rat-abandons-exploits
+2026-09-21,Volexity,23,"Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits",https://www.volexity.com/blog/2026/09/21/mind-the-patch-gap-part-2-fake-websites-used-to-deploy-chrome-windows-0-day-exploits/
+2026-09-21,Securelist,14,Group Policy hijacked: PAYLOAD ransomware weaponizes Active Directory GPO,https://securelist.com/tr/payload-ransomware-via-group-policy/121335/
+2026-09-24,Securelist,44,MacSync under the microscope: new delivery methods and a new payload,https://securelist.com/macsync-new-version/121383/
+2026-09-25,Zscaler ThreatLabz,12,Threat Actors Use Google Ads To Target Ledger Users,https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users
+2026-09-23,BleepingComputer,9,third-party.com Placeholder Domain Now Serves ClickFix,https://www.manifold.security/blog/third-party-com-placeholder-clickfix
+2026-09-24,BleepingComputer,6,​CARBONATO:​ ​a​ ​botnet​ ​built​ ​around an AI agent​ | ThreatDown,https://www.threatdown.com/blog/carbonato/
+2026-09-21,The Hacker News,20,"Threat Intel | One Kit, Forty Companies: How a Malware-as-a-Service Platform Used GitHub as a Distri",https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer
+2026-09-22,The Hacker News,10,PolinRider Spreads Through Compromised GitHub Accounts and Packagist | Socket,https://socket.dev/blog/polinrider-github-packagist
+2026-09-22,The Hacker News,7,EvilTokens and OAuth Abuse: How Device Code Phishing Bypasses MFA,https://www.netcraft.com/blog/eviltokens-and-oauth-abuse
+2026-09-22,The Hacker News,81,Cloudflare participates in global operation to disrupt EvilTokens Phishing-as-a-Service | Cloudflare,https://www.cloudflare.com/threat-intelligence/research/report/cloudflare-participates-in-global-operation-to-disrupt-eviltokens-phishing-as-a-service/
+2026-09-23,The Hacker News,28,MemTensor npm and PyPI Packages Hit by a Go Worm - Real-time Open Source Software Supply Chain Secur,https://safedep.io/memtensor-sckit-worm-npm-pypi/
+2026-09-23,The Hacker News,27,MemTensor npm and PyPI Packages Compromised in Credential-Stealing Supply Chain Attack | Socket,https://socket.dev/blog/memtensor-compromise
+2026-09-23,The Hacker News,22,Sckit Supply Chain Worm Hits MemTensor npm & PyPi scopes - StepSecurity,https://www.stepsecurity.io/blog/sckit-supply-chain-worm-hits-memtensor-npm-pypi-scopes
+2026-09-23,The Hacker News,7,Graphalgo Malware Spreads to Terraform and Go,https://www.aikido.dev/blog/graphalgo-terraform-go-modules
+2026-09-23,The Hacker News,24,Why Does an npm Math Library Need an Encrypted Loader? - Real-time Open Source Software Supply Chain,https://safedep.io/mathmain-encrypted-loader/
+2026-09-23,The Hacker News,6,How DPRK’s Contagious Interview Campaign Targets Developers - Kudelski Security Research Center,https://kudelskisecurity.com/research/how-dprks-contagious-interview-campaign-targets-developers
+2026-09-24,The Hacker News,6,"Inside Corp MDM, the Android spyware targeting logistics companies - Have I Been Squatted",https://haveibeensquatted.com/blog/inside-corp-mdm-android-spyware-targeting-logisitics
+2026-09-24,The Hacker News,11,Diesel Vortex: Exploring connections to Russian LLCs - Ctrl-Alt-Intel,https://ctrlaltintel.com/research/DieselVortex/
+2026-09-24,The Hacker News,7,Diesel Vortex phishing operation targeting freight - Have I Been Squatted,https://haveibeensquatted.com/blog/diesel-vortex-inside-the-russian-cybercrime-group-targeting-us-eu-freight
+2026-09-24,The Hacker News,12,RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft - Blackp,https://blackpointcyber.com/blog/remotepanel-and-boundsiphon-a-dual-payload-toolkit-for-persistent-access-and-browser-theft/
+2026-09-24,The Hacker News,4,ClickFix Attack: How ClickFix Malware Scam Works | Group-IB,https://www.group-ib.com/blog/clickfix-the-social-engineering-technique-hackers-use-to-manipulate-victims/
+2026-09-24,The Hacker News,16,Placeholder Domains Whose Ads Serve Scams,https://www.manifold.security/blog/placeholder-domains-ads-serve-scams
+2026-09-24,The Hacker News,38,RemControl: AI Built the Overlays. Victims Lose their PINs | Group-IB Blog,https://www.group-ib.com/blog/remcontrol-android-banking-trojan/
+2026-09-24,The Hacker News,121,Exvicy: A Copycat of the ErrTraffic Malware Distribution Framework,https://www.sekoia.com/blog/exvicy-a-copycat-of-the-errtraffic-malware-distribution-framework
+2026-09-24,The Hacker News,19,Deep-Live-Cam Supply Chain Attack: Technical Analysis - Real-time Open Source Software Supply Chain ,https://safedep.io/deep-live-cam-supply-chain-attack/
+2026-09-24,The Hacker News,7,A malicious npm package hidden three dependencies deep: the ulid-xyz delivery chain - Real-time Open,https://safedep.io/ulid-xyz-transitive-dependency-delivery-chain/
+2026-09-24,The Hacker News,5,Chatbot Conundrum: Phishing Attempts of OpenAI’s ChatGPT,https://cofense.com/blog/chatbot-conundrum-phishing-attempts-of-openai-s-chatgpt
+2026-09-24,The Hacker News,21,From Payment Plan to Ransomware - Inside a Global Group Attack,https://cofense.com/blog/from-payment-plan-to-ransomware-inside-a-global-group-attack
+2026-09-25,The Hacker News,10,New PamStealer variant targets macOS via fake crypto wallet,https://www.jamf.com/blog/pamstealer-wavel-macos-infostealer/
+2026-09-24,DarkReading,31,Uncovering a SectopRAT Variant Embedded in Legitimate Software | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/uncovering-a-sectoprat-variant-embedded-in-legitimate-software
+2026-09-24,DarkReading,20,A Wretch Client: From ClickFix deception to information stealer deployment,https://www.elastic.co/security-labs/threat-command/a-wretch-client
+2026-09-24,DarkReading,18,Distribution of SectopRAT (ArechClient2) Disguised as Notion Installer - ASEC,https://asec.ahnlab.com/en/83621/
+2026-09-24,DarkReading,35,Converging Ransomware Tradecraft: Analysis of a Multi-Phase Attack | Bridewell,https://www.bridewell.com/insights/blogs/detail/converging-ransomware-tradecraft-analysis-of-a-multi-phase-attack
