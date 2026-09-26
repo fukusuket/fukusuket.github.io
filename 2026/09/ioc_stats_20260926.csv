@@ -36,3 +36,7 @@ date,vendor,iocs,title,blog url
 2026-09-24,DarkReading,20,A Wretch Client: From ClickFix deception to information stealer deployment,https://www.elastic.co/security-labs/threat-command/a-wretch-client
 2026-09-24,DarkReading,18,Distribution of SectopRAT (ArechClient2) Disguised as Notion Installer - ASEC,https://asec.ahnlab.com/en/83621/
 2026-09-24,DarkReading,35,Converging Ransomware Tradecraft: Analysis of a Multi-Phase Attack | Bridewell,https://www.bridewell.com/insights/blogs/detail/converging-ransomware-tradecraft-analysis-of-a-multi-phase-attack
+2026-09-26,gbhackers.,17,Tracing SIXZUT and JITTERLY in the wild | VirLabs,https://www.virlabs.ai/blog/red-heron/
+2026-09-26,The Hacker News,4,Resecurity | Doomsday for Cybercriminals — Data Breach of Major Dark Web Forum,https://www.resecurity.com/blog/article/doomsday-for-cybercriminals-data-breach-of-major-dark-web-foru
+2026-09-26,The Hacker News,17,Lunex Unmasked: A New Information Stealer Deployed Through BYOVD,https://www.ontinue.com/resource/lunex-unmasked-a-new-information-stealer-deployed-through-byovd/
+2026-09-26,The Hacker News,8,The Panel Behind the Prompt: OSINT into a Live Lunex Stealer Network | BlueTeamCoolTeam,https://blueteam.cool/posts/lunex-c2-osint/
