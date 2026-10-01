@@ -1,0 +1,40 @@
+date,vendor,iocs,title,blog url
+2026-09-30,Cisco Talos,153,China-nexus UAT-11587 targets government and policy organizations across Asia with Antino backdoor,https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/
+2026-10-01,ProofPoint,22,Hallucinating Credibility: China-Aligned TA419 Impersonates its Way into US AI Policy Circles,https://www.proofpoint.com/us/blog/threat-insight/hallucinating-credibility-china-aligned-ta419-impersonates-its-way-us-ai-policy
+2026-09-28,Huntress Labs,30,Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix,https://www.huntress.com/blog/chatgpt-custom-gpts-clickfix-rat
+2026-09-30,Huntress Labs,13,Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers,https://www.huntress.com/blog/parks-recreation-platform-webshell-attack
+2026-10-01,Symantec Threat Intelligence,32,Warlock Ransomware Attackers Hit Water and Telecom Operators,https://www.security.com/threat-intelligence/warlock-ransomware-critical-infrastructure
+2026-09-25,Zscaler ThreatLabz,12,Threat Actors Use Google Ads To Target Ledger Users,https://www.zscaler.com/blogs/security-research/threat-actors-use-google-ads-target-ledger-users
+2026-09-30,Zscaler ThreatLabz,24,2CLoader: A New Malware Loader Delivering Vidar and Remus,https://www.zscaler.com/blogs/security-research/2cloader-new-malware-loader-delivering-vidar-and-remus
+2026-10-01,gbhackers.,23,CloudSyncD: macOS backdoor hidden in a fake Zoom installer,https://www.jamf.com/blog/cloudsyncd-macos-backdoor-fake-zoom-installer/
+2026-09-25,Microsoft Security Blog,4,Storm-3168: Agentic-driven cloud attacks using compromised service principals,https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/
+2026-09-29,Microsoft Security Blog,28,Star Blizzard refines phishing and malware delivery with the RedFlick technique,https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/
+2026-09-29,Microsoft Security Blog,39,Phishing Abuses RMM Tools for Persistent Access,https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/
+2026-09-30,Microsoft Security Blog,29,Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570,https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/
+2026-09-24,DarkReading,31,Uncovering a SectopRAT Variant Embedded in Legitimate Software | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/uncovering-a-sectoprat-variant-embedded-in-legitimate-software
+2026-09-24,DarkReading,20,A Wretch Client: From ClickFix deception to information stealer deployment,https://www.elastic.co/security-labs/threat-command/a-wretch-client
+2026-09-24,DarkReading,18,Distribution of SectopRAT (ArechClient2) Disguised as Notion Installer - ASEC,https://asec.ahnlab.com/en/83621/
+2026-09-24,DarkReading,35,Converging Ransomware Tradecraft: Analysis of a Multi-Phase Attack | Bridewell,https://www.bridewell.com/insights/blogs/detail/converging-ransomware-tradecraft-analysis-of-a-multi-phase-attack
+2026-09-28,DarkReading,6,​CARBONATO:​ ​a​ ​botnet​ ​built​ ​around an AI agent​ | ThreatDown,https://www.threatdown.com/blog/carbonato/
+2026-09-29,DarkReading,39,Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated S,https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/
+2026-09-29,DarkReading,39,Popular DAEMON Tools software compromised | Securelist,https://securelist.com/tr/daemon-tools-backdoor/119654/
+2026-09-25,The Hacker News,10,New PamStealer variant targets macOS via fake crypto wallet,https://www.jamf.com/blog/pamstealer-wavel-macos-infostealer/
+2026-09-26,The Hacker News,4,Resecurity | Doomsday for Cybercriminals — Data Breach of Major Dark Web Forum,https://www.resecurity.com/blog/article/doomsday-for-cybercriminals-data-breach-of-major-dark-web-foru
+2026-09-26,The Hacker News,17,Lunex Unmasked: A New Information Stealer Deployed Through BYOVD,https://www.ontinue.com/resource/lunex-unmasked-a-new-information-stealer-deployed-through-byovd/
+2026-09-26,The Hacker News,8,The Panel Behind the Prompt: OSINT into a Live Lunex Stealer Network | BlueTeamCoolTeam,https://blueteam.cool/posts/lunex-c2-osint/
+2026-09-28,The Hacker News,23,Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks,https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/
+2026-09-28,The Hacker News,24,"Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Stage",https://hunt.io/blog/thailand-ministry-finance-targeted-with-hermes-ai-agent
+2026-09-28,The Hacker News,20,AI Agents Are Hacking Online Retailers for $25 a Company,https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+2026-09-28,The Hacker News,32,VelvetCake: Konni Targets Ukraine With Malicious LNK Files,https://socradar.io/blog/operation-conflict-compass-konni-ukraine-lnk-lure/
+2026-09-28,The Hacker News,28,Kimsuky Uses the AI Agent 'opencode' to Create Decoys as Its GitHub PAT-Based LNK Attacks Evolve,https://www.genians.co.kr/en/blog/threat_intelligence/ai-agent-opencode?hsCtaAttrib=392306999998
+2026-09-28,The Hacker News,10,From BlackCat to Panda Workshop: Inside the Evolving C2 Panel Behind RATHat | Cleafy,https://www.cleafy.com/cleafy-labs/from-blackcat-to-panda-workshop-inside-the-evolving-c2-panel-behind-rathat
+2026-09-29,The Hacker News,12,Spearphishing via Fake URC 2026 Invitations Targets Ukrainian CSOs – Лабораторія цифрової безпеки,https://dslua.org/publications/spearphishing-via-fake-urc-2026-invitations-targets-ukrainian-csos/
+2026-09-30,The Hacker News,25,InstallFix: Weaponizing malvertised install guides,https://pushsecurity.com/blog/installfix/?utm_campaign=54037305-2026-Q4%20Browser%20Attacks%20Experience&utm_source=the-hacker-news&utm_medium=article
+2026-09-30,The Hacker News,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign/?utm_campaign=54037305-2026-Q4%20Browser%20Attacks%20Experience&utm_source=the-hacker-news&utm_medium=article
+2026-09-30,The Hacker News,16,Analyzing the rise in device code phishing attacks in 2026,https://pushsecurity.com/blog/device-code-phishing?utm_campaign=54037305-2026-Q4+Browser+Attacks+Experience&utm_source=the-hacker-news&utm_medium=article
+2026-09-30,The Hacker News,22,Fake AI Installer Campaign Delivering an In-Memory Stealer via the ClickFix Technique,https://blog.intellibron.io/fake-ai-installer-campaign-delivering-an-in-memory-stealer-via-the-clickfix-technique/
+2026-09-30,The Hacker News,28,"ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",https://blog.talosintelligence.com/clearfake-webdav-infection-chain/
+2026-09-30,The Hacker News,83,"Disposable Domains, Durable Hosting — ActiveSOC Blog",https://activesoc.blackhillsinfosec.com/blog/disposable-domains-durable-hosting/
+2026-09-30,The Hacker News,7,"EtherHiding: Fake CAPTCHAs, Click-Fix Lures, and Blockchain-Backed Payload Delivery - Censys",https://censys.com/blog/etherhiding-fake-captchas-click-fix-lures-blockchain-backed-payload-delivery/
+2026-09-30,The Hacker News,48,EtherHiding Exposed: Inside a Blockchain-powered Malware,https://www.guidepointsecurity.com/blog/etherhiding-exposed-deep-dive/
+2026-10-01,The Hacker News,19,Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators,https://www.levelblue.com/blogs/spiderlabs-blog/citrix-netscaler-cve-2026-88771-observed-exploitation-artifacts-and-hunt-indicators
