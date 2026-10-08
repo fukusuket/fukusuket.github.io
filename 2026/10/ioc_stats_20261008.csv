@@ -23,3 +23,13 @@ date,vendor,iocs,title,blog url
 2026-10-08,The Hacker News,33,16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials | Socket,https://socket.dev/blog/firefox-crypto-wallet-stealers
 2026-10-08,The Hacker News,12,Malicious Firefox Extension Poses as PDF Identity Verifier to Hijack Google Accounts | Socket,https://socket.dev/blog/firefox-google-account-takeover
 2026-10-08,The Hacker News,59,"The ""VPN for X"" Proxy Farm — Threat Library | Risky Plugins",https://riskyplugins.com/threat-library/russian-vpn-proxy-farm
+2026-10-08,Zscaler ThreatLabz,21,Suspected TraderTraitor Group Uses Trojanized Terraform Provider to Deliver Cross-Platform Malware,https://www.zscaler.com/blogs/security-research/suspected-tradertraitor-group-uses-trojanized-terraform-provider-deliver
+2026-10-08,gbhackers.,19,tensorlake NPM package compromised with Shai Hulud worm,https://www.aikido.dev/blog/tensorlake-npm-package-compromised
+2026-10-08,BleepingComputer,151,The phone was compromised before the user turned it on: the rise of Midnight Mimosa,https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware
+2026-10-08,BleepingComputer,6,Office of Public Affairs |  Justice Department and FBI Seize Vulnerability Scanning and Spear Phishi,https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools-operated
+2026-10-08,DarkReading,10,"MATCHBOIL: New tricks, same old evil intentions",https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/
+2026-10-08,The Hacker News,9,直近で相次いでいる国内組織における不正アクセスに関する注意喚起,https://www.jpcert.or.jp/at/2026/at260030.html
+2026-10-08,The Hacker News,10,"Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX | S",https://socket.dev/blog/glassworm-vscode-themes
+2026-10-08,The Hacker News,33,Brazilian Access Broker Targeting Latin America: Mapping BraZetsu Infrastructure Beyond the Publishe,https://hunt.io/blog/brazetsu-access-broker-infrastructure
+2026-10-08,The Hacker News,6,Caught in 4K: The Gentlemen Files | CloudSEK,https://www.cloudsek.com/blog/caught-in-4k-the-gentlemen-files
+2026-10-08,The Hacker News,14,Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers | Huntr,https://www.huntress.com/blog/parks-recreation-platform-webshell-attack
