@@ -34,3 +34,8 @@ date,vendor,iocs,title,blog url
 2026-10-08,The Hacker News,33,Brazilian Access Broker Targeting Latin America: Mapping BraZetsu Infrastructure Beyond the Publishe,https://hunt.io/blog/brazetsu-access-broker-infrastructure
 2026-10-08,The Hacker News,6,Caught in 4K: The Gentlemen Files | CloudSEK,https://www.cloudsek.com/blog/caught-in-4k-the-gentlemen-files
 2026-10-08,The Hacker News,14,Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers | Huntr,https://www.huntress.com/blog/parks-recreation-platform-webshell-attack
+2026-10-09,Censys,24,The Ultimate Guide to Brand Protection with Censys,https://censys.com/blog/the-ultimate-guide-to-brand-protection-with-censys/
+2026-10-09,BleepingComputer,15,Analysing a novel malicious redirect and cloaking technique,http://pushsecurity.com/blog/adception-malvertising-another-search-engines-search-results
+2026-10-09,The Hacker News,627,"Sleep, Beacon, Steal, Repeat - The Story of P7 DarkSword Variant",https://www.iverify.com/blog/darksword-variant-threat-research
+2026-10-09,The Hacker News,60,Proliferation of Coruna and DarkSword,https://www.iverify.com/blog/proliferation-of-coruna-and-darksword
+2026-10-10,The Hacker News,3,"New GhostAction Wave Hits Hundreds of Repos, Expanding Beyond CI/CD Secrets to Cloud Credentials | S",https://socket.dev/blog/ghostaction-cloud-credentials
