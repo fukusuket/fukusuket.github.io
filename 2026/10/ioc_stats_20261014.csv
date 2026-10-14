@@ -1,0 +1,29 @@
+date,vendor,iocs,title,blog url
+2026-10-08,ESET WeLiveSecurity,10,"MATCHBOIL: New tricks, same old evil intentions",https://www.welivesecurity.com/en/eset-research/matchboil-new-tricks-same-old-evil-intentions/
+2026-10-07,Huntress Labs,16,Phishing Campaign Abuses Microsoft Power BI to Deploy Rogue RMMs,https://www.huntress.com/blog/screenconnect-power-bi
+2026-10-08,Huntress Labs,21,Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer,https://www.huntress.com/blog/ahsaycbs-flaws-exploit
+2026-10-13,Huntress Labs,10,Fake WatchGuard VPN Site Steals Credentials,https://www.huntress.com/blog/fake-watchguard-vpn-credential-phishing
+2026-10-08,Zscaler ThreatLabz,21,Suspected TraderTraitor Group Uses Trojanized Terraform Provider to Deliver Cross-Platform Malware,https://www.zscaler.com/blogs/security-research/suspected-tradertraitor-group-uses-trojanized-terraform-provider-deliver
+2026-10-12,Elastic Security Labs,41,Auditing the auditor: Unmasking Apex Accelerator,https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages
+2026-10-07,Censys,52,DarkSword/Coruna Open Directory Finding Report,https://censys.com/blog/darksword-coruna-open-directory-finding-report/
+2026-10-09,Censys,24,The Ultimate Guide to Brand Protection with Censys,https://censys.com/blog/the-ultimate-guide-to-brand-protection-with-censys/
+2026-10-14,BleepingComputer,18,Hirudo: From Fake Updates to Patched Banking Apps,https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps
+2026-10-09,DarkReading,26,Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild,https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/
+2026-10-13,DarkReading,165,러시아 전쟁의 이면에서 우크라이나를 겨냥한 김수키의 Operation GitPower,https://www.genians.co.kr/blog/threat_intelligence/operation-gitpower
+2026-10-13,DarkReading,19,TA406 Pivots to the Front | Proofpoint US,https://www.proofpoint.com/us/blog/threat-insight/ta406-pivots-front
+2026-10-13,DarkReading,20,Living off GitHub: From Gmail Reply-Baiting to Fileless Exfiltration – Лабораторія цифрової безпеки,https://dslua.org/publications/living-off-github-from-gmail-reply-baiting-to-fileless-exfiltration/
+2026-10-08,The Hacker News,14,Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance,https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/
+2026-10-08,The Hacker News,16,直近で相次いでいる国内組織における不正アクセスに関する注意喚起,https://www.jpcert.or.jp/at/2026/at260030.html
+2026-10-08,The Hacker News,10,"Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX | S",https://socket.dev/blog/glassworm-vscode-themes
+2026-10-08,The Hacker News,33,Brazilian Access Broker Targeting Latin America: Mapping BraZetsu Infrastructure Beyond the Publishe,https://hunt.io/blog/brazetsu-access-broker-infrastructure
+2026-10-08,The Hacker News,6,Caught in 4K: The Gentlemen Files | CloudSEK,https://www.cloudsek.com/blog/caught-in-4k-the-gentlemen-files
+2026-10-08,The Hacker News,14,Determined Attacker Uploads Malicious Webshells to Parks and Rec Management Platform Servers | Huntr,https://www.huntress.com/blog/parks-recreation-platform-webshell-attack
+2026-10-09,The Hacker News,6,Office of Public Affairs |  Justice Department and FBI Seize Vulnerability Scanning and Spear Phishi,https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools-operated
+2026-10-10,The Hacker News,3,"New GhostAction Wave Hits Hundreds of Repos, Expanding Beyond CI/CD Secrets to Cloud Credentials | S",https://socket.dev/blog/ghostaction-cloud-credentials
+2026-10-11,The Hacker News,627,"Sleep, Beacon, Steal, Repeat - The Story of P7 DarkSword Variant",https://www.iverify.com/blog/darksword-variant-threat-research
+2026-10-11,The Hacker News,60,Proliferation of Coruna and DarkSword,https://www.iverify.com/blog/proliferation-of-coruna-and-darksword
+2026-10-12,The Hacker News,36,Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline,https://socradar.io/blog/operation-master-intrusion-monetization-pipeline/
+2026-10-12,The Hacker News,10,"Rapid7 MDR Team Discovers New SonicWall SMA1000 Zero Days being Actively Exploited (CVE-2026-15409, ",https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410/
+2026-10-13,The Hacker News,151,The phone was compromised before the user turned it on: the rise of Midnight Mimosa,https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware
+2026-10-13,The Hacker News,5,Android.Phantom trojans are bundled with modded games and popular apps to infiltrate smartphones. Th,https://news.drweb.com/show/?i=15110
+2026-10-13,The Hacker News,40,Android devices ship with firmware-level malware | SOPHOS,https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware
