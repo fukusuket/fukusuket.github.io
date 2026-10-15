@@ -2,7 +2,7 @@
 """Render index.html from the daily ioc_stats CSVs under yyyy/mm/.
 
 Reads the last week of CSVs written by ThreatfeedCollector (--no-misp),
-dedupes articles on their URL and groups them by publication date.
+dedupes articles on a normalized URL and groups them by publication date.
 Standard library only.
 """
 
@@ -11,6 +11,7 @@ import html
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import parse_qsl, urlencode, urlsplit
 
 ROOT = Path(__file__).resolve().parent.parent
 CSV_GLOB = "[0-9][0-9][0-9][0-9]/[0-9][0-9]/ioc_stats_*.csv"
@@ -36,22 +37,57 @@ def dated_csv_files():
     return [path for day, path in found if day >= cutoff]
 
 
+TRACKING_PARAM = re.compile(r"^(utm_\w+|fbclid|gclid|mc_[ce]id|ref|source)$", re.I)
+
+
+def url_key(url):
+    """Collapse spellings of the same article URL into one key.
+
+    Feeds link the same post as http/https, with or without www. or a
+    trailing slash, and sometimes with tracking parameters attached.
+    """
+    parts = urlsplit(url.strip())
+    host = (parts.hostname or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    path = re.sub(r"/{2,}", "/", parts.path).rstrip("/")
+    query = urlencode(sorted(
+        (k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+        if not TRACKING_PARAM.match(k)
+    ))
+    return f"{host}{path}?{query}" if query else f"{host}{path}"
+
+
 def read_articles(paths):
-    """Dedupe on url, newest file winning."""
+    """Dedupe on url_key, keeping the earliest date seen for the article.
+
+    The same post is re-listed by aggregators on later days, so the earliest
+    date is the closest to its publication. An https link is preferred.
+    """
     articles = {}
     for path in paths:
         with path.open(newline="", encoding="utf-8") as handle:
             for row in csv.DictReader(handle):
                 url = (row.get("blog url") or "").strip()
                 title = (row.get("title") or "").strip()
-                if not url or not title or url in articles:
+                if not url or not title:
                     continue
-                articles[url] = {
+                article = {
                     "date": (row.get("date") or "").strip() or "unknown",
                     "vendor": (row.get("vendor") or "").strip(),
                     "title": title,
                     "url": url,
                 }
+                key = url_key(url)
+                seen = articles.get(key)
+                if seen is None or (article["date"] != "unknown"
+                                    and (seen["date"] == "unknown"
+                                         or article["date"] < seen["date"])):
+                    articles[key] = article
+                    if seen and seen["url"].startswith("https:"):
+                        article["url"] = seen["url"]
+                elif url.startswith("https:") and not seen["url"].startswith("https:"):
+                    seen["url"] = url
     return list(articles.values())
 
 
