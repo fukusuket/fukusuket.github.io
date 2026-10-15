@@ -26,3 +26,13 @@ date,vendor,iocs,title,blog url
 2026-10-13,The Hacker News,151,The phone was compromised before the user turned it on: the rise of Midnight Mimosa,https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware
 2026-10-13,The Hacker News,5,Android.Phantom trojans are bundled with modded games and popular apps to infiltrate smartphones. Th,https://news.drweb.com/show/?i=15110
 2026-10-13,The Hacker News,40,Android devices ship with firmware-level malware | SOPHOS,https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware
+2026-10-15,gbhackers.,101,From ClickFix to C2: Comparative Analysis of Two Malware Loaders - Forescout,https://www.forescout.com/blog/from-clickfix-to-c2-comparative-analysis-of-two-malware-loaders/
+2026-10-15,gbhackers.,92,Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary S,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+2026-10-15,DarkReading,9,APT36: A Nightmare of Vibeware,https://businessinsights.bitdefender.com/apt36-nightmare-vibeware
+2026-10-15,The Hacker News,50,Help TDS and its Malicious Plugins Redirect Thousands of Sites to Tech Support Scams - GoDaddy Blog,https://www.godaddy.com/resources/news/help-tds-malicious-plugins-redirect-tech-support-scams
+2026-10-15,The Hacker News,71,Hooking Candiru: Another Mercenary Spyware Vendor Comes into Focus - The Citizen Lab,https://citizenlab.ca/research/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
+2026-10-15,The Hacker News,34,ADINT: Weaponized Ad Tech for Zero-Click Spyware and Mass Identity Vacuuming,https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming
+2026-10-16,The Hacker News,20,Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257,https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+2026-10-16,The Hacker News,21,Linked content from https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html,https://www.darktrace.com/blog/cikabika-bot-inside-a-discord-rat
+2026-10-16,The Hacker News,21,"KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize | Group-IB Blog",https://www.group-ib.com/blog/kgb-rat-windows-fud-trojan/
+2026-10-16,The Hacker News,71,Gen Blogs | Warden Stealer: The Rapid Rise of an Infostealer with an Appetite for AI Agent Data,https://www.gendigital.com/blog/insights/research/warden-stealer-rust-infostealer-analysis
