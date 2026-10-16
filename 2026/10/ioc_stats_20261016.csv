@@ -1,0 +1,30 @@
+date,vendor,iocs,title,blog url
+2026-10-14,ProofPoint,3,Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus,https://www.proofpoint.com/us/blog/threat-insight/disruption-targets-major-chinese-language-phishing-kits-japanese-focus
+2026-10-14,Unit42(Palo Alto Networks),26,"Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
+2026-10-15,Unit42(Palo Alto Networks),39,AI-Powered Espionage Campaign Targets Government Linux Infrastructure,https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/
+2026-10-15,Cyble,3,"The GhostX Ecosystem: Forged in Transit, Licensed to Deceive",https://cyble.com/blog/ghostx-forged-in-transit-licensed-to-deceive/
+2026-10-15,Symantec Threat Intelligence,23,Aoki: Infostealer Targets AI Coding Assistant Credentials,https://www.security.com/threat-intelligence/aoki-infostealer-ai-targeting
+2026-10-13,Huntress Labs,9,Fake WatchGuard VPN Site Steals Credentials,https://www.huntress.com/blog/fake-watchguard-vpn-credential-phishing
+2026-10-12,Elastic Security Labs,41,Auditing the auditor: Unmasking Apex Accelerator,https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages
+2026-10-09,Censys,24,The Ultimate Guide to Brand Protection with Censys,https://censys.com/blog/the-ultimate-guide-to-brand-protection-with-censys/
+2026-10-14,BleepingComputer,4,CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface,https://security.paloaltonetworks.com/CVE-2026-0322
+2026-10-09,DarkReading,26,Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild,https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/
+2026-10-13,DarkReading,165,러시아 전쟁의 이면에서 우크라이나를 겨냥한 김수키의 Operation GitPower,https://www.genians.co.kr/blog/threat_intelligence/operation-gitpower
+2026-10-13,DarkReading,19,TA406 Pivots to the Front | Proofpoint US,https://www.proofpoint.com/us/blog/threat-insight/ta406-pivots-front
+2026-10-13,DarkReading,20,Living off GitHub: From Gmail Reply-Baiting to Fileless Exfiltration – Лабораторія цифрової безпеки,https://dslua.org/publications/living-off-github-from-gmail-reply-baiting-to-fileless-exfiltration/
+2026-10-14,DarkReading,21,Resecurity | Iron Man & YamStore: Powering a Global Phishing-as-a-Service Ecosystem,https://www.resecurity.com/blog/article/iron-man-yamstore-powering-a-global-phishing-as-a-service-ecosystem
+2026-10-15,DarkReading,9,APT36: A Nightmare of Vibeware,https://businessinsights.bitdefender.com/apt36-nightmare-vibeware
+2026-10-12,The Hacker News,10,"Rapid7 MDR Team Discovers New SonicWall SMA1000 Zero Days being Actively Exploited (CVE-2026-15409, ",https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410/
+2026-10-12,The Hacker News,21,Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer | Huntress,https://www.huntress.com/blog/ahsaycbs-flaws-exploit
+2026-10-13,The Hacker News,151,The phone was compromised before the user turned it on: the rise of Midnight Mimosa,https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware
+2026-10-13,The Hacker News,5,Android.Phantom trojans are bundled with modded games and popular apps to infiltrate smartphones. Th,https://news.drweb.com/show/?i=15110
+2026-10-13,The Hacker News,40,Android devices ship with firmware-level malware | SOPHOS,https://www.sophos.com/en-us/blog/android-devices-ship-with-firmware-level-malware
+2026-10-14,The Hacker News,18,Hirudo: From Fake Updates to Patched Banking Apps,https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps
+2026-10-15,The Hacker News,50,Help TDS and its Malicious Plugins Redirect Thousands of Sites to Tech Support Scams - GoDaddy Blog,https://www.godaddy.com/resources/news/help-tds-malicious-plugins-redirect-tech-support-scams
+2026-10-15,The Hacker News,92,Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary S,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+2026-10-15,The Hacker News,71,Hooking Candiru: Another Mercenary Spyware Vendor Comes into Focus - The Citizen Lab,https://citizenlab.ca/research/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
+2026-10-15,The Hacker News,34,ADINT: Weaponized Ad Tech for Zero-Click Spyware and Mass Identity Vacuuming,https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming
+2026-10-16,The Hacker News,20,Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257,https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+2026-10-16,The Hacker News,21,Linked content from https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html,https://www.darktrace.com/blog/cikabika-bot-inside-a-discord-rat
+2026-10-16,The Hacker News,21,"KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize | Group-IB Blog",https://www.group-ib.com/blog/kgb-rat-windows-fud-trojan/
+2026-10-16,The Hacker News,71,Gen Blogs | Warden Stealer: The Rapid Rise of an Infostealer with an Appetite for AI Agent Data,https://www.gendigital.com/blog/insights/research/warden-stealer-rust-infostealer-analysis
