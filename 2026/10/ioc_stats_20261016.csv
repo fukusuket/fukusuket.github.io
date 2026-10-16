@@ -28,3 +28,4 @@ date,vendor,iocs,title,blog url
 2026-10-16,The Hacker News,21,Linked content from https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html,https://www.darktrace.com/blog/cikabika-bot-inside-a-discord-rat
 2026-10-16,The Hacker News,21,"KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize | Group-IB Blog",https://www.group-ib.com/blog/kgb-rat-windows-fud-trojan/
 2026-10-16,The Hacker News,71,Gen Blogs | Warden Stealer: The Rapid Rise of an Infostealer with an Appetite for AI Agent Data,https://www.gendigital.com/blog/insights/research/warden-stealer-rust-infostealer-analysis
+2026-10-16,DarkReading,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign
