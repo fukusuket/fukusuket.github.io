@@ -33,3 +33,5 @@ date,vendor,iocs,title,blog url
 2026-10-19,The Hacker News,21,GhostAction Attack Escalates By Targeting GitHub Users | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-attack-escalates
 2026-10-19,The Hacker News,18,GhostAction Is Now Phishing Open Source Maintainers | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-phishing-campaign
 2026-10-19,The Hacker News,13,GhostAction Copycats PolinRider by Hiding a Stealer in a Fake Font File | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-copycats-polinrider-by-hiding-a-stealer-in-a-fake-font-file
+2026-10-19,Sophos,3,ConnectWise Cloud Backup application abused in cross-tenant token sweep,https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep
+2026-10-19,The Hacker News,23,"Inside the Aisuru Botnet: DDoS, ADB and Proxyware",https://www.bitsight.com/blog/who-invited-aisuru-lan-party
