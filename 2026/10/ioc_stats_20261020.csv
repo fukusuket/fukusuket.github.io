@@ -1,0 +1,39 @@
+date,vendor,iocs,title,blog url
+2026-10-14,Sekoia,11,Sekoia Honeypot Captures an Attack on GenAI Infrastructure,https://www.sekoia.com/blog/a-honeypots-tale-deconstructing-an-attack-on-genai-infrastructure
+2026-10-19,Sophos,3,ConnectWise Cloud Backup application abused in cross-tenant token sweep,https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep
+2026-10-14,ProofPoint,3,Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus,https://www.proofpoint.com/us/blog/threat-insight/disruption-targets-major-chinese-language-phishing-kits-japanese-focus
+2026-10-15,Cyble,3,"The GhostX Ecosystem: Forged in Transit, Licensed to Deceive",https://cyble.com/blog/ghostx-forged-in-transit-licensed-to-deceive/
+2026-10-13,Huntress Labs,9,Fake WatchGuard VPN Site Steals Credentials,https://www.huntress.com/blog/fake-watchguard-vpn-credential-phishing
+2026-10-16,Huntress Labs,4,ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks,https://www.huntress.com/blog/vendor-credential-enables-unauthorized-access
+2026-10-15,Symantec Threat Intelligence,23,Aoki: Infostealer Targets AI Coding Assistant Credentials,https://www.security.com/threat-intelligence/aoki-infostealer-ai-targeting
+2026-10-20,Symantec Threat Intelligence,29,Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries,https://www.security.com/threat-intelligence/swallowtail-russia-nato-targets
+2026-10-14,Unit42(Palo Alto Networks),26,"Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/
+2026-10-15,Unit42(Palo Alto Networks),39,AI-Powered Espionage Campaign Targets Government Linux Infrastructure,https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/
+2026-10-16,Zscaler ThreatLabz,36,CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability,https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability
+2026-10-20,gbhackers.,21,GhostAction Attack Escalates By Targeting GitHub Users | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-attack-escalates
+2026-10-20,gbhackers.,21,Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19),https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/
+2026-10-16,BleepingComputer,92,Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary S,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+2026-10-17,BleepingComputer,10,Trust Center | Advisories | ConnectWise,https://www.connectwise.com/company/trust/advisories
+2026-10-13,DarkReading,165,러시아 전쟁의 이면에서 우크라이나를 겨냥한 김수키의 Operation GitPower,https://www.genians.co.kr/blog/threat_intelligence/operation-gitpower
+2026-10-13,DarkReading,19,TA406 Pivots to the Front | Proofpoint US,https://www.proofpoint.com/us/blog/threat-insight/ta406-pivots-front
+2026-10-13,DarkReading,20,Living off GitHub: From Gmail Reply-Baiting to Fileless Exfiltration – Лабораторія цифрової безпеки,https://dslua.org/publications/living-off-github-from-gmail-reply-baiting-to-fileless-exfiltration/
+2026-10-14,DarkReading,21,Resecurity | Iron Man & YamStore: Powering a Global Phishing-as-a-Service Ecosystem,https://www.resecurity.com/blog/article/iron-man-yamstore-powering-a-global-phishing-as-a-service-ecosystem
+2026-10-15,DarkReading,9,APT36: A Nightmare of Vibeware,https://businessinsights.bitdefender.com/apt36-nightmare-vibeware
+2026-10-16,DarkReading,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign
+2026-10-19,DarkReading,50,Help TDS and its Malicious Plugins Redirect Thousands of Sites to Tech Support Scams - GoDaddy Blog,https://www.godaddy.com/resources/news/help-tds-malicious-plugins-redirect-tech-support-scams
+2026-10-15,The Hacker News,4,CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface,https://security.paloaltonetworks.com/CVE-2026-0322
+2026-10-15,The Hacker News,71,Hooking Candiru: Another Mercenary Spyware Vendor Comes into Focus - The Citizen Lab,https://citizenlab.ca/research/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
+2026-10-15,The Hacker News,34,ADINT: Weaponized Ad Tech for Zero-Click Spyware and Mass Identity Vacuuming,https://blog.confiant.com/p/adint-weaponized-ad-tech-for-zero-click-spyware-and-mass-identity-vacuuming
+2026-10-16,The Hacker News,15,Linked content from https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html,https://www.darktrace.com/blog/cikabika-bot-inside-a-discord-rat
+2026-10-16,The Hacker News,21,"KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize | Group-IB Blog",https://www.group-ib.com/blog/kgb-rat-windows-fud-trojan/
+2026-10-16,The Hacker News,71,Gen Blogs | Warden Stealer: The Rapid Rise of an Infostealer with an Appetite for AI Agent Data,https://www.gendigital.com/blog/insights/research/warden-stealer-rust-infostealer-analysis
+2026-10-17,The Hacker News,3,ConnectWise Product and Services Status,https://status.connectwise.com/
+2026-10-17,The Hacker News,12,MALFEX Moves Its npm Loader into a Native Windows DLL - Real-time Open Source Software Supply Chain ,https://safedep.io/malfex-imgdecode-npm-native-addon-loader/
+2026-10-18,The Hacker News,3,ConnectWise Product and Services Status,https://status.connectwise.com/pages/incident/619cf82551fec9053d612f09/6ad263692dc48705ab3da2cb
+2026-10-19,The Hacker News,41,Auditing the auditor: Unmasking Apex Accelerator,https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages
+2026-10-19,The Hacker News,23,CloudSyncD: macOS backdoor hidden in a fake Zoom installer,https://www.jamf.com/blog/cloudsyncd-macos-backdoor-fake-zoom-installer/
+2026-10-19,The Hacker News,13,GhostAction Copycats PolinRider by Hiding a Stealer in a Fake Font File | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-copycats-polinrider-by-hiding-a-stealer-in-a-fake-font-file
+2026-10-19,The Hacker News,23,"Inside the Aisuru Botnet: DDoS, ADB and Proxyware",https://www.bitsight.com/blog/who-invited-aisuru-lan-party
+2026-10-20,The Hacker News,35,ROMULUS: Analysis of a New Multi-Payload ClickFix Delivery Platform - Forescout,https://www.forescout.com/blog/romulus-analysis-of-a-new-multi-payload-clickfix-delivery-platform/
+2026-10-20,The Hacker News,35,PAPERMILL: Tracking an Emerging China-Nexus Malware Factory | JUMPSEC,https://www.jumpsec.com/guides/an-emerging-silver-fox-like-cluster-papermill/
+2026-10-20,The Hacker News,6,Active Exploitation of CVE-2026-110936 in Siemens Software Center - Siemens ProductCERT,https://productcert.siemens.com/news/2026/10/19/active-exploitation-of-cve-2026-110936-in-siemens-software-center/
