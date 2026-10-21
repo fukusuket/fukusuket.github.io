@@ -41,3 +41,12 @@ date,vendor,iocs,title,blog url
 2026-10-21,The Hacker News,106,Ботнет ProxyCB: анализ 15-летней эволюции от 2011 до Node.js,https://rt-solar.ru/solar-4rays/blog/6652/
 2026-10-21,The Hacker News,13,The Russian SpyAgent – a Decade Later and RAT Tools Remain at Risk | Deep Instinct,https://www.deepinstinct.com/blog/the-russian-spyagent-a-decade-later-and-rat-tools-remain-at-risk
 2026-10-21,The Hacker News,37,Family Tree: DLL-Sideloading Cases May Be Related | SOPHOS,https://www.sophos.com/en-us/blog/family-tree-dll-sideloading-cases-may-be-related
+2026-10-21,Microsoft Security Blog,6,"AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/
+2026-10-21,Huntress Labs,31,Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware,https://www.huntress.com/blog/amazon-clickfix-finger
+2026-10-21,gbhackers.,28,The Gentlemen: A closer look at a not-so-gentle ransomware-as-a- service operation,https://www.acronis.com/en/tru/posts/the-gentlemen-a-closer-look-at-a-not-so-gentle-ransomware-as-a-service-operation/
+2026-10-21,BleepingComputer,24,"Analyzing AI-themed ClickFix, InstallFix & LLMshare attacks",https://pushsecurity.com/blog/analyzing-the-latest-ai-themed-malware-delivery-attacks?utm_campaign=44159766-FY26_bleeping-computer&utm_source=bleeping-computer&utm_medium=sponsored-content
+2026-10-21,BleepingComputer,6,LLMShare: using shared chatbot pages to distribute malware,https://pushsecurity.com/blog/llmshare-malvertising-campaign/?utm_campaign=44159766-FY26_bleeping-computer&utm_source=bleeping-computer&utm_medium=sponsored-content
+2026-10-21,BleepingComputer,6,Active Exploitation of CVE-2026-110936 in Siemens Software Center - Siemens ProductCERT,http://productcert.siemens.com/news/2026/10/19/active-exploitation-of-cve-2026-110936-in-siemens-software-center/
+2026-10-21,DarkReading,10,"Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX | S",https://socket.dev/blog/glassworm-vscode-themes
+2026-10-21,The Hacker News,17,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor - Real-time Open Sour,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+2026-10-21,The Hacker News,23,LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials | Socket,https://socket.dev/blog/litellm-compromise
