@@ -47,3 +47,9 @@ date,vendor,iocs,title,blog url
 2026-10-19,piyolog,12,@copilot-mcp/apex: A macOS Infostealer Re-Published on npm After Takedown - Real-time Open Source So,https://safedep.io/malicious-copilot-mcp-apex-npm-macos-infostealer/
 2026-10-19,piyolog,41,Auditing the auditor: Unmasking Apex Accelerator,https://www.elastic.co/security-labs/threat-command/apex-accelerator-malicious-npm-packages
 2026-10-23,piyolog,22,Operation CAIRN: Technical Analysis of an Autonomous AI-Driven Intrusion Campaign | M3GATR0N,https://them3gatron.github.io
+2026-10-23,Check Point,161,Infostealer riding the AI Train,https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/
+2026-10-23,Microsoft Security Blog,17,Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks,https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/
+2026-10-23,BleepingComputer,71,Gen Blogs | Warden Stealer: The Rapid Rise of an Infostealer with an Appetite for AI Agent Data,https://www.gendigital.com/blog/insights/research/warden-stealer-rust-infostealer-analysis?utm_source=bleepingcomputer&utm_medium=sponsored
+2026-10-23,BleepingComputer,23,Operation IXIM: Preventing a botnet of millions of Popcorn Time users - Eye Research,https://labs.eye.security/operation-ixim-preventing-a-botnet-of-millions-of-popcorn-time-users/
+2026-10-23,The Hacker News,50,"Stray Cat, Open Doors: How k0t Wanders Through the Network Edge | Group-IB Blog",https://www.group-ib.com/blog/stray-cat-network-edge/
+2026-10-23,The Hacker News,51,INC and The Gentlemen Ransomware: Exposed AI Infrastructure,https://socradar.io/blog/inc-gentlemen-ransomware-ai-infrastructure/
