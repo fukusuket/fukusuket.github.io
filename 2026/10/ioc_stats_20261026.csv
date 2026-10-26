@@ -1,0 +1,46 @@
+date,vendor,iocs,title,blog url
+2026-10-22,ESET WeLiveSecurity,68,MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration,https://www.welivesecurity.com/en/eset-research/mythicratatoskr-yggdrasil-enabled-backdoor-deployed-uac0099-sandworm-collaboration/
+2026-10-23,Check Point,161,Infostealer riding the AI Train,https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/
+2026-10-21,Cisco Talos,8,Two critical RCEs in PHP core,https://blog.talosintelligence.com/two-critical-rces-in-php-core/
+2026-10-21,Microsoft Security Blog,6,"AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/
+2026-10-23,Microsoft Security Blog,17,Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks,https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/
+2026-10-22,Arctic Wolf,18,PHP2Shell: Critical PHP Vulnerabilities Enable Unauthenticated Remote Code Execution,https://arcticwolf.com/resources/blog/php2shell-critical-php-vulnerabilities-enable-unauthenticated-remote-code-execution/
+2026-10-26,Arctic Wolf,59,Beyond the Inbox: How Threat Actors Abuse Microsoft Teams External Chat for Initial Access,https://arcticwolf.com/resources/blog/threat-actors-abuse-microsoft-teams-external-chat-for-initial-access/
+2026-10-20,Sophos,7,BRONZE SANDCASTLE deploys modified Meterpreter shells,https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells
+2026-10-21,Sophos,16,"Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619
+2026-10-21,Huntress Labs,27,Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware,https://www.huntress.com/blog/amazon-clickfix-finger
+2026-10-22,Huntress Labs,13,M365 Token Spray and Replay Campaign Compromises Business Email Accounts,https://www.huntress.com/blog/token-replay-spray
+2026-10-20,Symantec Threat Intelligence,29,Swallowtail: Russian Espionage Group Targets Defense Firms in Two NATO Countries,https://www.security.com/threat-intelligence/swallowtail-russia-nato-targets
+2026-10-21,Symantec Threat Intelligence,10,Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks,https://www.security.com/threat-intelligence/ai-llmjacking-skynet
+2026-10-21,Zscaler ThreatLabz,28,CVE-2026-109618 and CVE-2026-109619: PHP Vulnerable to Unauthenticated RCE Attacks,https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce
+2026-10-22,Zscaler ThreatLabz,27,SEO Poisoning Campaign Delivers New Armorsteal Malware,https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware
+2026-10-21,Securelist,24,"Operation FlashHole: Lazarus breaks security, defies control",https://securelist.com/lazarus-operation-flashhole/121541/
+2026-10-20,Wiz,18,From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage,https://www.wiz.io/blog/from-phishing-to-llmjacking
+2026-10-21,Wiz,23,"LiteLLM Compromised, Steals Credentials",https://www.wiz.io/blog/litellm-compromised-steals-credentials
+2026-10-26,gbhackers.,6,DarkCore: A Data-Theft RAT With a Session-Hijacking Browser - BlackFog,https://www.blackfog.com/darkcore-a-data-theft-rat-with-a-session-hijacking-browser/
+2026-10-22,BleepingComputer,23,LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials | Socket,https://socket.dev/blog/litellm-compromise
+2026-10-22,BleepingComputer,15,"LiteLLM 1.107.0 Compromised: Python Startup Hooks Steal Cloud, AI, and Proxy Credentials | Endor Lab",https://www.endorlabs.com/learn/litellm-1-107-0-compromised-python-startup-hooks-steal-cloud-ai-and-proxy-credentials
+2026-10-23,BleepingComputer,71,Gen Blogs | Warden Stealer: The Rapid Rise of an Infostealer with an Appetite for AI Agent Data,https://www.gendigital.com/blog/insights/research/warden-stealer-rust-infostealer-analysis?utm_source=bleepingcomputer&utm_medium=sponsored
+2026-10-23,BleepingComputer,23,Operation IXIM: Preventing a botnet of millions of Popcorn Time users - Eye Research,https://labs.eye.security/operation-ixim-preventing-a-botnet-of-millions-of-popcorn-time-users/
+2026-10-19,DarkReading,10,Trust Center | Advisories | ConnectWise,https://www.connectwise.com/company/trust/advisories
+2026-10-19,DarkReading,6,ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks | Huntress,https://www.huntress.com/blog/vendor-credential-enables-unauthorized-access
+2026-10-19,DarkReading,92,Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary S,https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+2026-10-19,DarkReading,50,Help TDS and its Malicious Plugins Redirect Thousands of Sites to Tech Support Scams - GoDaddy Blog,https://www.godaddy.com/resources/news/help-tds-malicious-plugins-redirect-tech-support-scams
+2026-10-21,DarkReading,10,"Pretty Themes, Hidden Loaders: GlassWorm-Linked Extensions Span VS Code Marketplace and Open VSX | S",https://socket.dev/blog/glassworm-vscode-themes
+2026-10-22,DarkReading,10,Trust Center | Advisories | ConnectWise,https://www.connectwise.com/company/trust/advisories?_sp=e1d63892-c12c-4c4e-959b-b58bfe22fbf1.1792696807082
+2026-10-23,DarkReading,20,AI Agents Are Hacking Online Retailers for $25 a Company,https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+2026-10-23,piyolog,22,Operation CAIRN: Technical Analysis of an Autonomous AI-Driven Intrusion Campaign | M3GATR0N,https://them3gatron.github.io
+2026-10-21,The Hacker News,37,Family Tree: DLL-Sideloading Cases May Be Related | SOPHOS,https://www.sophos.com/en-us/blog/family-tree-dll-sideloading-cases-may-be-related
+2026-10-21,The Hacker News,18,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor - Real-time Open Sour,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+2026-10-22,The Hacker News,7,LiteLLM Hijacked Again: Malicious 1.107.0 Wheels Steal Credentials and Load Remote Code - JFrog Secu,https://research.jfrog.com/post/litellm-hijacked-again/
+2026-10-22,The Hacker News,14,LiteLLM compromised: infostealer and RAT in PyPI 1.107.0,https://www.aikido.dev/blog/litellm-compromised-infostealer-rat
+2026-10-22,The Hacker News,13,Your AI Gateway Was a Backdoor: Inside the LiteLLM Supply Chain Compromise | Trend Micro (UK),https://www.trendmicro.com/en_gb/research/26/c/inside-litellm-supply-chain-compromise.html
+2026-10-22,The Hacker News,10,Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks | SECURITY.COM,https://www.security.com/blog-post/ai-llmjacking-skynet
+2026-10-22,The Hacker News,15,Okta-Themed Phishing Campaign Targets E-commerce Providers - Dataminr,https://www.dataminr.com/resources/intel-brief/okta-themed-phishing-campain-targets-e-commerce-providers/
+2026-10-23,The Hacker News,29,"Hunting Leaked PHP2Shell RCE Across Open Directories (CVE-2026-109618, CVE-2026-109619)",https://hunt.io/blog/php2shell-cve-2026-109618-109619-open-directories
+2026-10-23,The Hacker News,50,"Stray Cat, Open Doors: How k0t Wanders Through the Network Edge | Group-IB Blog",https://www.group-ib.com/blog/stray-cat-network-edge/
+2026-10-23,The Hacker News,51,INC and The Gentlemen Ransomware: Exposed AI Infrastructure,https://socradar.io/blog/inc-gentlemen-ransomware-ai-infrastructure/
+2026-10-24,The Hacker News,5,New Evidence Shows LiteLLM Secret-Stealing Workflows Ran 11 Days Before Supply Chain Attack | Socket,https://socket.dev/blog/litellm-attack-timeline
+2026-10-25,The Hacker News,63,CYFIRMA Threat Advisory: Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infr,https://www.cyfirma.com/research/cyfirma-threat-advisory-suspected-dprk-campaign-staging-php2shell-targeting-against-global-php-infrastructure/
+2026-10-26,The Hacker News,7,Who’s Behind the Seized Forums ‘Cracked’ & ‘Nulled’? – Krebs on Security,https://krebsonsecurity.com/2025/02/whos-behind-the-seized-forums-cracked-nulled/
+2026-10-26,The Hacker News,7,Android.Backdoor.Baohuo.1.origin — Dr.Web Malware description library,https://vms.drweb.com/virus/?i=30931101&lng=en
