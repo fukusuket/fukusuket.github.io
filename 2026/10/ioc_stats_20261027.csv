@@ -40,3 +40,9 @@ date,vendor,iocs,title,blog url
 2026-10-27,The Hacker News,11,ESET takes part in Operation Endgame to disrupt Amadey and Stealc,https://www.welivesecurity.com/en/eset-research/eset-takes-part-operation-endgame-disrupt-amadey-stealc/
 2026-10-27,The Hacker News,13,Lazarus Threat Group Exploiting Vulnerability of Korean Finance Security Solution - ASEC,https://asec.ahnlab.com/en/54195/
 2026-10-27,The Hacker News,13,March 2026 Security Issues in the Korean & Global Financial Sector - ASEC,https://asec.ahnlab.com/en/93421/
+2026-10-27,Censys,13,Censys AI Agents: Automate Investigations and Amplify Your Threat Intel,https://censys.com/blog/censys-ai-agents-automate-investigations-and-amplify-your-threat-intel/
+2026-10-27,Wiz,12,PHP2Shell: Exploitation Attempts and Remediation Trends,https://www.wiz.io/blog/php2shell-exploitation-so-far
+2026-10-27,gbhackers.,6,Automated Subversion and Attempted Takeover of AI Pentesting Harnesses - NorForge,https://norforge.com/blog/automated-subversion-attempted-takeover
+2026-10-27,BleepingComputer,12,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks | Huntress,https://www.huntress.com/blog/tiflux-rmm-install
+2026-10-27,BleepingComputer,53,ClickFix Gets Creative: Malware Buried in Images | Huntress,https://www.huntress.com/blog/clickfix-malware-buried-in-images
+2026-10-27,BleepingComputer,34,Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT | H,https://www.huntress.com/blog/fakeagent-claude-desktop-malvertising-ends-in-dotnet-rat
