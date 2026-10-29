@@ -33,3 +33,13 @@ date,vendor,iocs,title,blog url
 2026-10-27,The Hacker News,13,Lazarus Threat Group Exploiting Vulnerability of Korean Finance Security Solution - ASEC,https://asec.ahnlab.com/en/54195/
 2026-10-27,The Hacker News,13,March 2026 Security Issues in the Korean & Global Financial Sector - ASEC,https://asec.ahnlab.com/en/93421/
 2026-10-27,The Hacker News,10,Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks | SECURITY.COM,https://www.security.com/blog-post/ai-llmjacking-skynet
+2026-10-28,Zscaler ThreatLabz,10,CVE-2026-111497: Node2Shell / HTTP2Shell Vulnerability May Allow RCE,https://www.zscaler.com/blogs/security-research/cve-2026-111497-node2shell-http2shell-vulnerability-may-allow-rce
+2026-10-29,BleepingComputer,9,Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script | InfoStealers,https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/
+2026-10-29,DarkReading,7,Would Your Employees Join a Fake Anthropic AI Preview?,https://cofense.com/blog/would-your-employees-join-a-fake-anthropic-ai-preview
+2026-10-30,The Hacker News,36,"68 GB Stolen From a Philippine Government Agency’s Overseas-Employment Databases, Exposed by the Ope",https://hunt.io/blog/philippine-government-employment-agency-records-stolen
+2026-10-30,The Hacker News,71,n0n Ransomware: Inside an AI-Assisted Extortion Operation,https://socradar.io/blog/n0n-ransomware-ai-assisted-extortion/
+2026-10-30,The Hacker News,21,Beyond testmetest: Native Addon Camouflage and 42 Armed GitHub Repositories Reveal a Hidden npm Publ,https://research.jfrog.com/post/beyond-testmetest-42-hijacked-github-repos/
+2026-10-30,The Hacker News,8,"Inside ""MR ROBOT"" - Anatomy of a Malware-as-a-Service Operation Targeting Indian Bank Customers | Cl",https://www.cloudsek.com/blog/inside-mr-robot-malware-as-a-service-targeting-indian-bank-customers
+2026-10-30,The Hacker News,20,Cache Me If You Can: Unpacking a Go Implant and Its Toolkit  | Blog | VulnCheck,https://www.vulncheck.io/blog/cache-me-if-you-can
+2026-10-30,The Hacker News,28,The Gentlemen: A closer look at a not-so-gentle ransomware-as-a- service operation,https://www.acronis.com/en/tru/posts/the-gentlemen-a-closer-look-at-a-not-so-gentle-ransomware-as-a-service-operation/
+2026-10-30,The Hacker News,6,DarkCore: A Data-Theft RAT With a Session-Hijacking Browser - BlackFog,https://www.blackfog.com/darkcore-a-data-theft-rat-with-a-session-hijacking-browser/
