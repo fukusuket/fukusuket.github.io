@@ -1,0 +1,42 @@
+date,vendor,iocs,title,blog url
+2026-10-27,Check Point,54,Tricks from the Past deployed via signed ChatGPT and Claude binaries,https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/
+2026-10-29,Cisco Talos,9,NIK C2: The new AI-enabled command-and-control framework,https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/
+2026-10-29,CrowdStrike,9,VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign,https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/
+2026-10-26,Arctic Wolf,59,Beyond the Inbox: How Threat Actors Abuse Microsoft Teams External Chat for Initial Access,https://arcticwolf.com/resources/blog/threat-actors-abuse-microsoft-teams-external-chat-for-initial-access/
+2026-10-26,Huntress Labs,5,"AI, Scripts, Operator: Inside the ConnectWise Attack",https://www.huntress.com/blog/connectwise-attack-ai
+2026-10-27,Huntress Labs,8,Camera Management Software Compromise Leads to Malware Deployment,https://www.huntress.com/blog/camera-management-software-compromise-malware
+2026-10-28,Huntress Labs,9,Managed for Malice: How Attackers Turn MDM into Remote Access,https://www.huntress.com/blog/attackers-turn-mdm-into-remote-access
+2026-10-29,Sophos,8,AI used in Aur0ra ransomware testing and execution,https://www.sophos.com/en-us/blog/ai-used-in-aur0ra-ransomware-testing-and-execution
+2026-10-23,Microsoft Security Blog,17,Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks,https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/
+2026-10-29,Symantec Threat Intelligence,29,Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations,https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays
+2026-10-28,Cyble,21,From Hijacked PBX to Stolen Trunk: INJ3CTOR3’s Campaign Evolves,https://cyble.com/blog/hijacked-pbx-to-stolen-trunk-inj3ctor3s-campaign/
+2026-10-28,Zscaler ThreatLabz,10,CVE-2026-111497: Node2Shell / HTTP2Shell Vulnerability May Allow RCE,https://www.zscaler.com/blogs/security-research/cve-2026-111497-node2shell-http2shell-vulnerability-may-allow-rce
+2026-10-27,Censys,13,Censys AI Agents: Automate Investigations and Amplify Your Threat Intel,https://censys.com/blog/censys-ai-agents-automate-investigations-and-amplify-your-threat-intel/
+2026-10-27,Wiz,12,PHP2Shell: Exploitation Attempts and Remediation Trends,https://www.wiz.io/blog/php2shell-exploitation-so-far
+2026-10-29,Securelist,17,Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia,https://securelist.com/netamloader/121676/
+2026-10-30,gbhackers.,20,Inside Coruna and DarkSword Chains: From Web Lures to iOS Exploitation,https://zimperium.com/blog/inside-coruna-and-darksword-chains-from-web-lures-to-ios-exploitation
+2026-10-30,gbhackers.,16,Kairos Hold'em: Dissecting a New Go-Based DDoS Botnet,https://www.nozominetworks.com/blog/kairos-holdem-dissecting-a-new-go-based-ddos-botnet
+2026-10-30,gbhackers.,128,Prediction Markets Emerge as a New Vertical for Traffer Teams,https://www.recordedfuture.com/research/prediction-markets-traffer-teams
+2026-10-28,BleepingComputer,5,Operation Omegaline: FBI Seizes Virtualine | Silent Push,https://www.silentpush.com/blog/operation-omegaline-fbi-seizes-virtualine/
+2026-10-29,BleepingComputer,9,Polymarket Breach Alert: Wallet-Draining Code Found in a Third-Party Script | InfoStealers,https://www.infostealers.com/article/polymarket-breach-alert-wallet-draining-code-found-in-a-third-party-script/
+2026-10-23,DarkReading,20,AI Agents Are Hacking Online Retailers for $25 a Company,https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+2026-10-23,DarkReading,9,Two critical RCEs in PHP core,https://blog.talosintelligence.com/two-critical-rces-in-php-core/
+2026-10-27,DarkReading,161,Infostealer riding the AI Train - Check Point Research,https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/
+2026-10-28,DarkReading,8,GhostAction Crosses Paths With PolinRider: Inside the October Escalation,https://blog.gitguardian.com/ghostaction-x-polinrider/
+2026-10-28,DarkReading,21,GhostAction Attack Escalates By Targeting GitHub Users | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-attack-escalates
+2026-10-28,DarkReading,51,GhostAction Copycats PolinRider by Hiding a Stealer in a Fake Font File | OpenSourceMalware,https://opensourcemalware.com/blog/ghostaction-copycats-polinrider-by-hiding-a-stealer-in-a-fake-font-file
+2026-10-29,DarkReading,7,Would Your Employees Join a Fake Anthropic AI Preview?,https://cofense.com/blog/would-your-employees-join-a-fake-anthropic-ai-preview
+2026-10-27,The Hacker News,35,"Operation CameraSwarm:  Over 14,000 Dahua cameras compromised across Ukraine and Russia",https://hunt.io/blog/operation-cameraswarm-dahua-cameras-compromised
+2026-10-27,The Hacker News,11,ESET takes part in Operation Endgame to disrupt Amadey and Stealc,https://www.welivesecurity.com/en/eset-research/eset-takes-part-operation-endgame-disrupt-amadey-stealc/
+2026-10-27,The Hacker News,26,"Dissecting Operation FlashHole, a complex attack by Lazarus | Securelist",https://securelist.com/lazarus-operation-flashhole/121541/
+2026-10-27,The Hacker News,13,Lazarus Threat Group Exploiting Vulnerability of Korean Finance Security Solution - ASEC,https://asec.ahnlab.com/en/54195/
+2026-10-27,The Hacker News,13,March 2026 Security Issues in the Korean & Global Financial Sector - ASEC,https://asec.ahnlab.com/en/93421/
+2026-10-27,The Hacker News,10,Autonomous LLMjacking: ‘Skynet’ Agent Hijacks Exposed AI Models to Run Attacks | SECURITY.COM,https://www.security.com/blog-post/ai-llmjacking-skynet
+2026-10-30,The Hacker News,34,"68 GB Stolen From a Philippine Government Agency’s Overseas-Employment Databases, Exposed by the Ope",https://hunt.io/blog/philippine-government-employment-agency-records-stolen
+2026-10-30,The Hacker News,71,n0n Ransomware: Inside an AI-Assisted Extortion Operation,https://socradar.io/blog/n0n-ransomware-ai-assisted-extortion/
+2026-10-30,The Hacker News,21,Beyond testmetest: Native Addon Camouflage and 42 Armed GitHub Repositories Reveal a Hidden npm Publ,https://research.jfrog.com/post/beyond-testmetest-42-hijacked-github-repos/
+2026-10-30,The Hacker News,8,"Inside ""MR ROBOT"" - Anatomy of a Malware-as-a-Service Operation Targeting Indian Bank Customers | Cl",https://www.cloudsek.com/blog/inside-mr-robot-malware-as-a-service-targeting-indian-bank-customers
+2026-10-30,The Hacker News,20,Cache Me If You Can: Unpacking a Go Implant and Its Toolkit  | Blog | VulnCheck,https://www.vulncheck.io/blog/cache-me-if-you-can
+2026-10-30,The Hacker News,28,The Gentlemen: A closer look at a not-so-gentle ransomware-as-a- service operation,https://www.acronis.com/en/tru/posts/the-gentlemen-a-closer-look-at-a-not-so-gentle-ransomware-as-a-service-operation/
+2026-10-30,The Hacker News,6,DarkCore: A Data-Theft RAT With a Session-Hijacking Browser - BlackFog,https://www.blackfog.com/darkcore-a-data-theft-rat-with-a-session-hijacking-browser/
+2026-10-30,The Hacker News,8,Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Exte,https://cursor.com/blog/claude-code-extension-security-notice
