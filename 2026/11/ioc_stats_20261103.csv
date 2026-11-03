@@ -41,3 +41,5 @@ date,vendor,iocs,title,blog url
 2026-11-03,The Hacker News,8,"Exploitation Targeting Node-RED, a Tool Embedded in ICS Products  | Blog | VulnCheck",https://www.vulncheck.com/blog/exploitation-targeting-node-red
 2026-11-03,The Hacker News,23,New Golang brute forcer discovered amid rise in e-commerce attacks | Malwarebytes Labs,https://www.malwarebytes.com/blog/news/2019/02/new-golang-brute-forcer-discovered-amid-rise-e-commerce-attacks
 2026-11-03,The Hacker News,55,New eCh0raix Ransomware Variant Targets QNAP and Synology Network-Attached Storage Devices,https://unit42.paloaltonetworks.com/ech0raix-ransomware-soho/
+2026-11-03,Microsoft Security Blog,12,Fake-download campaign uses trojanized installers to deliver monetization payloads,https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/
+2026-11-03,The Hacker News,7,Malicious Ad for Homebrew Leads to MacSync Stealer,https://isc.sans.edu/diary/32942
