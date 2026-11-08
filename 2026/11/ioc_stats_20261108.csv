@@ -1,0 +1,33 @@
+date,vendor,iocs,title,blog url
+2026-11-02,Fortinet,17,BITTER Expands Its Arsenal with PapRAT,https://feeds.fortinet.com/~/972208619/0/fortinet/blog/threat-research~BITTER-Expands-Its-Arsenal-with-PapRAT
+2026-11-04,ESET WeLiveSecurity,15,SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware,https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/
+2026-11-02,Google Cloud Threat Intelligence,252,Shutting the Door on the XCPE Botnet,https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/
+2026-11-03,Microsoft Security Blog,12,Fake-download campaign uses trojanized installers to deliver monetization payloads,https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/
+2026-11-05,Microsoft Security Blog,9,Email threat landscape: Q3 2026 trends and insights,https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/
+2026-11-05,Microsoft Security Blog,4,Threat actors use agentic AI tooling to find and abuse exposed secrets,https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/
+2026-11-07,Microsoft Security Blog,8,ARTEX abuse expands as cybercriminals target financial sector,https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+2026-11-05,Censys,38,ARTEX: Agentic Asbestos,https://censys.com/blog/artex-agentic-asbestos/
+2026-11-02,Securelist,12,CyberStrikeAI in the wild: the use of AI in real-world attacks on organizations,https://securelist.com/tr/cyberstrikeai-attacks/121715/
+2026-11-05,Securelist,24,"The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",https://securelist.com/storm-2603-fileless-toolshell-attack/121467/
+2026-11-07,gbhackers.,5,Insolence beyond belief. Threat actors target information security developers on GitHub,https://news.drweb.com/show/?i=15311&lng=en&c=5
+2026-11-02,DarkReading,17,BITTER Expands Its Arsenal with PapRAT | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/bitter-expands-its-arsenal-with-paprat
+2026-11-04,DarkReading,34,"68 GB Stolen From a Philippine Government Agency’s Overseas-Employment Databases, Exposed by the Ope",https://hunt.io/blog/philippine-government-employment-agency-records-stolen
+2026-11-05,DarkReading,42,Poisoned Source: APT29 Watering Holes Targets Mobile Devices,https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits
+2026-11-05,BleepingComputer,44,Fake event invites combine Kali365 and VoidProxy payloads,http://pushsecurity.com/blog/ai-themed-fake-event-campaign-analysis
+2026-11-05,BleepingComputer,7,Would Your Employees Join a Fake Anthropic AI Preview?,http://cofense.com/blog/would-your-employees-join-a-fake-anthropic-ai-preview
+2026-11-05,piyolog,11,The Internals of a Badbox Operation | Synthient,https://synthient.com/blog/the-internals-of-a-badbox-operation
+2026-11-02,The Hacker News,103,DarkBlinders: Active Espionage Campaign | Dream Research,https://dreamgroup.com/blog/darkblinders-inside-an-active-espionage-campaign
+2026-11-02,The Hacker News,11,DarkBlinders APT: Aviation & Telecom Espionage in UAE | Group-IB,https://www.group-ib.com/masked-actors/darkblinders/
+2026-11-02,The Hacker News,27,Blinder Tunnel Campaign Targets Iraqi Infrastructure,https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/
+2026-11-03,The Hacker News,8,"Exploitation Targeting Node-RED, a Tool Embedded in ICS Products  | Blog | VulnCheck",https://www.vulncheck.com/blog/exploitation-targeting-node-red
+2026-11-03,The Hacker News,23,New Golang brute forcer discovered amid rise in e-commerce attacks | Malwarebytes Labs,https://www.malwarebytes.com/blog/news/2019/02/new-golang-brute-forcer-discovered-amid-rise-e-commerce-attacks
+2026-11-03,The Hacker News,55,New eCh0raix Ransomware Variant Targets QNAP and Synology Network-Attached Storage Devices,https://unit42.paloaltonetworks.com/ech0raix-ransomware-soho/
+2026-11-03,The Hacker News,29,Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations  | SEC,https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays
+2026-11-03,The Hacker News,7,Malicious Ad for Homebrew Leads to MacSync Stealer,https://isc.sans.edu/diary/32942
+2026-11-04,The Hacker News,8,Gen Blogs | Gray Rabbits and the Tale of a One-Click Backdoor,https://www.gendigital.com/blog/insights/research/one-click-backdoor-sogou
+2026-11-04,The Hacker News,20,Inside Coruna and DarkSword Chains: From Web Lures to iOS Exploitation,https://zimperium.com/blog/inside-coruna-and-darksword-chains-from-web-lures-to-ios-exploitation
+2026-11-05,The Hacker News,14,PAYLOAD ransomware attacks through Active Directory GPO | Securelist,https://securelist.com/tr/payload-ransomware-via-group-policy/121335/
+2026-11-05,The Hacker News,6,"Stolen App Credentials, Real Access: An Actor Is Signing Into Entra ID and Azure DevOps as Your Work",https://www.todyl.com/blog/stolen-app-credentials-real-access-an-actor-is-signing-into-entra-id-and-azure-devops-as-your-workloads
+2026-11-05,The Hacker News,4,Linked content from https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif
+2026-11-06,The Hacker News,7,CWPdoor: The Invisible Backdoor Living Inside Control Web Panel,https://blog.xlab.qianxin.com/cwpdoor-the-invisible-backdoor-living-inside-control-web-panel/
+2026-11-06,The Hacker News,18,From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage | Wiz Blog,https://www.wiz.io/blog/from-phishing-to-llmjacking
