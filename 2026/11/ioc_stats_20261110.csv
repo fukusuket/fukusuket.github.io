@@ -1,0 +1,31 @@
+date,vendor,iocs,title,blog url
+2026-11-09,Fortinet,27,Analyzing an Illegal Android Gambling App Built with Flutter,https://feeds.fortinet.com/~/972693755/0/fortinet/blog/threat-research~Analyzing-an-Illegal-Android-Gambling-App-Built-with-Flutter
+2026-11-04,ESET WeLiveSecurity,15,SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware,https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/
+2026-11-09,Huntress Labs,44,"Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",https://www.huntress.com/blog/ahsaycbs-webshells
+2026-11-03,Microsoft Security Blog,12,Fake-download campaign uses trojanized installers to deliver monetization payloads,https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/
+2026-11-05,Microsoft Security Blog,9,Email threat landscape: Q3 2026 trends and insights,https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/
+2026-11-05,Microsoft Security Blog,4,Threat actors use agentic AI tooling to find and abuse exposed secrets,https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/
+2026-11-07,Microsoft Security Blog,8,ARTEX abuse expands as cybercriminals target financial sector,https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+2026-11-05,Censys,38,ARTEX: Agentic Asbestos,https://censys.com/blog/artex-agentic-asbestos/
+2026-11-05,Securelist,24,"The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",https://securelist.com/storm-2603-fileless-toolshell-attack/121467/
+2026-11-09,Wiz,7,Trusted by Default: Qubole Cross-Account Access Abused in the Wild,https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild
+2026-11-09,gbhackers.,23,Operation Snowball: Inside an Autonomous AI Intrusion Campaign,https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign
+2026-11-09,gbhackers.,3,"New GhostAction Wave Hits Hundreds of Repos, Expanding Beyond CI/CD Secrets to Cloud Credentials | S",https://socket.dev/blog/ghostaction-cloud-credentials
+2026-11-04,DarkReading,34,"68 GB Stolen From a Philippine Government Agency’s Overseas-Employment Databases, Exposed by the Ope",https://hunt.io/blog/philippine-government-employment-agency-records-stolen
+2026-11-05,DarkReading,42,Poisoned Source: APT29 Watering Holes Targets Mobile Devices,https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits
+2026-11-03,The Hacker News,29,Sandbox Flipped to ‘Danger-Full-Access’: Unauthorized AI Relays Create Risk for Organizations  | SEC,https://www.security.com/threat-intelligence/openai-claude-unauthorized-relays
+2026-11-03,The Hacker News,7,Malicious Ad for Homebrew Leads to MacSync Stealer,https://isc.sans.edu/diary/32942
+2026-11-04,The Hacker News,8,Gen Blogs | Gray Rabbits and the Tale of a One-Click Backdoor,https://www.gendigital.com/blog/insights/research/one-click-backdoor-sogou
+2026-11-04,The Hacker News,20,Inside Coruna and DarkSword Chains: From Web Lures to iOS Exploitation,https://zimperium.com/blog/inside-coruna-and-darksword-chains-from-web-lures-to-ios-exploitation
+2026-11-05,The Hacker News,14,PAYLOAD ransomware attacks through Active Directory GPO | Securelist,https://securelist.com/tr/payload-ransomware-via-group-policy/121335/
+2026-11-05,The Hacker News,6,"Stolen App Credentials, Real Access: An Actor Is Signing Into Entra ID and Azure DevOps as Your Work",https://www.todyl.com/blog/stolen-app-credentials-real-access-an-actor-is-signing-into-entra-id-and-azure-devops-as-your-workloads
+2026-11-05,The Hacker News,4,Linked content from https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif
+2026-11-06,The Hacker News,7,CWPdoor: The Invisible Backdoor Living Inside Control Web Panel,https://blog.xlab.qianxin.com/cwpdoor-the-invisible-backdoor-living-inside-control-web-panel/
+2026-11-06,The Hacker News,18,From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage | Wiz Blog,https://www.wiz.io/blog/from-phishing-to-llmjacking
+2026-11-09,The Hacker News,19,"Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion",https://www.acronis.com/en/tru/posts/inside-qilin-ransomware-esxi-attacks-affiliate-networks-and-double-extortion/
+2026-11-09,The Hacker News,20,A Dish Served Lukewarm: The Refrigerator Botnet - SecurityScorecard,https://securityscorecard.com/blog/a-dish-served-lukewarm-the-refrigerator-botnet/
+2026-11-09,The Hacker News,30,PhantomDOM: Microsoft 365 Browser-in-the-Middle Phishing | ZeroBEC,https://zerobec.com/blog/phantomdom-browser-in-the-middle-microsoft-365
+2026-11-09,The Hacker News,17,BITTER Expands Its Arsenal with PapRAT | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/bitter-expands-its-arsenal-with-paprat
+2026-11-09,The Hacker News,48,Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor | So,https://socket.dev/blog/bee-js-compromise
+2026-11-09,The Hacker News,10,Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys - Real-time Open Source Software Supply,https://safedep.io/blog/ethersphere-bee-js-npm-compromise
+2026-11-05,piyolog,11,The Internals of a Badbox Operation | Synthient,https://synthient.com/blog/the-internals-of-a-badbox-operation
