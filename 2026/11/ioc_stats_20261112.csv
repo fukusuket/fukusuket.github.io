@@ -33,3 +33,10 @@ date,vendor,iocs,title,blog url
 2026-11-10,The Hacker News,14,Weaponized SVGs: Inside a global phishing campaign targeting financial institutions,https://www.ibm.com/think/x-force/weaponized-svgs-inside-a-global-phishing-campaign-targeting-financial-institutions
 2026-11-11,The Hacker News,10,ZeroQlik Returns: Qlik Sense Exploitation | Cynet Research,https://www.cynet.com/security-foundations/attack-techniques/exploiting-Qlik-Sense-servers/
 2026-11-05,piyolog,11,The Internals of a Badbox Operation | Synthient,https://synthient.com/blog/the-internals-of-a-badbox-operation
+2026-11-12,Fortinet,24,T-SQL Being Abused to Deliver Malware on Compromised MS SQL Servers,https://feeds.fortinet.com/~/972883538/0/fortinet/blog/threat-research~TSQL-Being-Abused-to-Deliver-Malware-on-Compromised-MS-SQL-Servers
+2026-11-12,Huntress Labs,29,SCKit Worm Installs Rogue ScreenConnect Clients and Session Cookie Relays Across Hundreds of Endpoin,https://www.huntress.com/blog/sckit-worm-rogue-screenconnect
+2026-11-12,Cyble,3,Can Agentic AI Investigate a Phishing Campaign? Evidence Walkthrough,https://cyble.com/blog/can-agentic-ai-investigate-phishing-campaign/
+2026-11-12,Symantec Threat Intelligence,65,How AI Revived a Stalled Attack on a U.S. Retailer,https://www.security.com/threat-intelligence/ai-assisted-attack-us-retailer
+2026-11-11,BleepingComputer,18,Trust Center | Advisories | ConnectWise,https://www.connectwise.com/company/trust/advisories
+2026-11-12,The Hacker News,23,"wfx: GitHub Actions Credential Stealer Hits 8,000 Repos - Real-time Open Source Software Supply Chai",https://safedep.io/blog/github-actions-wfx-credential-stealer
+2026-11-12,The Hacker News,7,wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories,https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories
