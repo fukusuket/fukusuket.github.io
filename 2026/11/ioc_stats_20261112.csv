@@ -40,3 +40,13 @@ date,vendor,iocs,title,blog url
 2026-11-11,BleepingComputer,18,Trust Center | Advisories | ConnectWise,https://www.connectwise.com/company/trust/advisories
 2026-11-12,The Hacker News,23,"wfx: GitHub Actions Credential Stealer Hits 8,000 Repos - Real-time Open Source Software Supply Chai",https://safedep.io/blog/github-actions-wfx-credential-stealer
 2026-11-12,The Hacker News,7,wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories,https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories
+2026-11-12,BleepingComputer,10,4EverAble2Shell exploited: Monero miners on live N-central,https://huntback.io/blog/ncentral-4everable2shell-miners-on-live-servers
+2026-11-12,BleepingComputer,17,ScreenConnect Attack: SCKit Turns Remote Support Into an Attack Platform - Blackpoint Cyber,https://blackpointcyber.com/blog/screenconnect-attack-sckit/
+2026-11-12,DarkReading,7,How we defended against an AI-driven attack - Eye Research,https://labs.eye.security/how-we-defended-against-an-ai-driven-attack/
+2026-11-12,The Hacker News,67,TypoPrompting: From AI Typos to Malware,https://www.island.io/blog/typoprompting-from-ai-typos-to-malware
+2026-11-12,The Hacker News,14,Off the Rails: Inside an Exposed Silent Lynx Server | CloudSEK,https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server
+2026-11-12,The Hacker News,27,SEO Poisoning Campaign Delivers Armorsteal Malware | ThreatLabz,https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware
+2026-11-12,The Hacker News,57,Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto | Seqrite,https://www.seqrite.com/blog/armorsteal-unpacked-breaking-down-a-python-malware-kit-that-steals-data-and-mines-crypto/
+2026-11-12,The Hacker News,80,Inside REVSTEALER's Growing Distribution Ecosystem — Akatsuki Legion,https://akatsukilegion.com/post.php?slug=inside-revstealer-s-growing-distribution-ecosystem
+2026-11-12,The Hacker News,11,Sekoia Honeypot Captures an Attack on GenAI Infrastructure,https://www.sekoia.com/blog/a-honeypots-tale-deconstructing-an-attack-on-genai-infrastructure
+2026-11-12,The Hacker News,134,"BlackApex, SPY, and Counting: The Emerging Wave of Vibe-Coded Phishing Kits",https://www.levelblue.com/blogs/spiderlabs-blog/blackapex-spy-and-counting-the-emerging-wave-of-vibe-coded-phishing-kits
