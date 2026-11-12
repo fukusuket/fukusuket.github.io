@@ -1,0 +1,35 @@
+date,vendor,iocs,title,blog url
+2026-11-09,Fortinet,27,Analyzing an Illegal Android Gambling App Built with Flutter,https://feeds.fortinet.com/~/972693755/0/fortinet/blog/threat-research~Analyzing-an-Illegal-Android-Gambling-App-Built-with-Flutter
+2026-11-10,Check Point,163,Not All That Glitters Is Gold: Tracking CopperDragon’s Sparrow Framework Around the Globe,https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/
+2026-11-09,Huntress Labs,44,"Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",https://www.huntress.com/blog/ahsaycbs-webshells
+2026-11-10,Huntress Labs,13,Beyond the clipboard: The evolving tradecraft of ClickFix,https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix
+2026-11-11,Unit42(Palo Alto Networks),29,The XG Files: Falcon C2 Flying Under The (Browser) Radar,https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
+2026-11-05,Microsoft Security Blog,9,Email threat landscape: Q3 2026 trends and insights,https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/
+2026-11-05,Microsoft Security Blog,4,Threat actors use agentic AI tooling to find and abuse exposed secrets,https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/
+2026-11-07,Microsoft Security Blog,8,ARTEX abuse expands as cybercriminals target financial sector,https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+2026-11-11,Microsoft Security Blog,12,The global socket: how threat actors are weaponizing GSocket for stealthy C2,https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/
+2026-11-05,Censys,38,ARTEX: Agentic Asbestos,https://censys.com/blog/artex-agentic-asbestos/
+2026-11-09,Wiz,7,Trusted by Default: Qubole Cross-Account Access Abused in the Wild,https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild
+2026-11-05,Securelist,24,"The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",https://securelist.com/storm-2603-fileless-toolshell-attack/121467/
+2026-11-11,Securelist,12,"Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",https://securelist.com/citrus-ransomware/121879/
+2026-11-11,BleepingComputer,23,Operation Snowball: Inside an Autonomous AI Intrusion Campaign,https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign
+2026-11-05,DarkReading,42,Poisoned Source: APT29 Watering Holes Targets Mobile Devices,https://www.sekoia.com/blog/poisoned-source-apt29-watering-holes-targets-mobile-devices-with-n-day-exploits
+2026-11-10,DarkReading,176,Countering misuse of AI: September 2026 / Anthropic \ Anthropic,https://www.anthropic.com/threat-intelligence-report-september-2026
+2026-11-10,DarkReading,9,VAPOR PANDA Uses AI-Driven ARTEX to Grow Global Espionage Campaign,https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/
+2026-11-11,DarkReading,11,"N-central Security Update – August 10, 2026 - N-able",https://www.n-able.com/blog/n-central-security-update-august-10-2026
+2026-11-11,DarkReading,4,N-central 2026.3 Hotfix 1 – Mitigation for CVE-2026-18577  | N-able Status,https://status.n-able.com/2026/08/02/n-central-2026-3-hotfix-1-mitigation-for-cve-2026-18577/
+2026-11-06,The Hacker News,7,CWPdoor: The Invisible Backdoor Living Inside Control Web Panel,https://blog.xlab.qianxin.com/cwpdoor-the-invisible-backdoor-living-inside-control-web-panel/
+2026-11-06,The Hacker News,6,"Stolen App Credentials, Real Access: An Actor Is Signing Into Entra ID and Azure DevOps as Your Work",https://www.todyl.com/blog/stolen-app-credentials-real-access-an-actor-is-signing-into-entra-id-and-azure-devops-as-your-workloads
+2026-11-06,The Hacker News,18,From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage | Wiz Blog,https://www.wiz.io/blog/from-phishing-to-llmjacking
+2026-11-09,The Hacker News,19,"Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion",https://www.acronis.com/en/tru/posts/inside-qilin-ransomware-esxi-attacks-affiliate-networks-and-double-extortion/
+2026-11-09,The Hacker News,20,A Dish Served Lukewarm: The Refrigerator Botnet - SecurityScorecard,https://securityscorecard.com/blog/a-dish-served-lukewarm-the-refrigerator-botnet/
+2026-11-09,The Hacker News,30,PhantomDOM: Microsoft 365 Browser-in-the-Middle Phishing | ZeroBEC,https://zerobec.com/blog/phantomdom-browser-in-the-middle-microsoft-365
+2026-11-09,The Hacker News,17,BITTER Expands Its Arsenal with PapRAT | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/bitter-expands-its-arsenal-with-paprat
+2026-11-09,The Hacker News,48,Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor | So,https://socket.dev/blog/bee-js-compromise
+2026-11-09,The Hacker News,10,Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys - Real-time Open Source Software Supply,https://safedep.io/blog/ethersphere-bee-js-npm-compromise
+2026-11-10,The Hacker News,5,N-able N-central Critical Vulnerabilities: What We Know So Far,https://blog.previdian.com/n-able-n-central-critical-vulnerabilities-what-we-know-so-far/
+2026-11-10,The Hacker News,8,LAST HEIST: New APT-C-36 infection wave in LATAM - ZenoX - Artificial Intelligence for Cyber Securit,https://zenox.ai/en/last-heist-new-apt-c-36-infection-wave-in-latam/
+2026-11-10,The Hacker News,6,SVGs: the hacker’s canvas | Cloudflare,https://www.cloudflare.com/en-in/cloudforce-one/research/svgs-the-hackers-canvas/
+2026-11-10,The Hacker News,14,Weaponized SVGs: Inside a global phishing campaign targeting financial institutions,https://www.ibm.com/think/x-force/weaponized-svgs-inside-a-global-phishing-campaign-targeting-financial-institutions
+2026-11-11,The Hacker News,10,ZeroQlik Returns: Qlik Sense Exploitation | Cynet Research,https://www.cynet.com/security-foundations/attack-techniques/exploiting-Qlik-Sense-servers/
+2026-11-05,piyolog,11,The Internals of a Badbox Operation | Synthient,https://synthient.com/blog/the-internals-of-a-badbox-operation
