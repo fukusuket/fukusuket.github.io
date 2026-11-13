@@ -1,0 +1,46 @@
+date,vendor,iocs,title,blog url
+2026-11-09,Fortinet,27,Analyzing an Illegal Android Gambling App Built with Flutter,https://feeds.fortinet.com/~/972693755/0/fortinet/blog/threat-research~Analyzing-an-Illegal-Android-Gambling-App-Built-with-Flutter
+2026-11-12,Fortinet,24,T-SQL Being Abused to Deliver Malware on Compromised MS SQL Servers,https://feeds.fortinet.com/~/972883538/0/fortinet/blog/threat-research~TSQL-Being-Abused-to-Deliver-Malware-on-Compromised-MS-SQL-Servers
+2026-11-10,Check Point,163,Not All That Glitters Is Gold: Tracking CopperDragon’s Sparrow Framework Around the Globe,https://research.checkpoint.com/2026/not-all-that-glitters-is-gold-tracking-copperdragons-sparrow-framework-around-the-globe/
+2026-11-09,Huntress Labs,44,"Inside an AhsayCBS Intrusion: Hidden Webshells, a CryptoMiner, and a C2 Implant",https://www.huntress.com/blog/ahsaycbs-webshells
+2026-11-09,Huntress Labs,20,"N-able Disables Cloud Services Following Disclosure of ""Able2Shell"" Exploit Chains",https://www.huntress.com/blog/n-able-disables-cloud-services-following-disclosure-of-able2shell-exploit-chains
+2026-11-10,Huntress Labs,14,Beyond the clipboard: The evolving tradecraft of ClickFix,https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix
+2026-11-12,Huntress Labs,27,SCKit Worm Installs Rogue ScreenConnect Clients and Session Cookie Relays Across Hundreds of Endpoin,https://www.huntress.com/blog/sckit-worm-rogue-screenconnect
+2026-11-12,Huntress Labs,9,Crafty Microsoft Teams Booking Flow Disguises Device Code Phishing,https://www.huntress.com/blog/crafty-microsoft-teams-booking-flow-disguises-device-code-phishing
+2026-11-11,Unit42(Palo Alto Networks),29,The XG Files: Falcon C2 Flying Under The (Browser) Radar,https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/
+2026-11-12,Cyble,3,Can Agentic AI Investigate a Phishing Campaign? Evidence Walkthrough,https://cyble.com/blog/can-agentic-ai-investigate-phishing-campaign/
+2026-11-12,Symantec Threat Intelligence,65,How AI Revived a Stalled Attack on a U.S. Retailer,https://www.security.com/threat-intelligence/ai-assisted-attack-us-retailer
+2026-11-07,Microsoft Security Blog,8,ARTEX abuse expands as cybercriminals target financial sector,https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+2026-11-11,Microsoft Security Blog,12,The global socket: how threat actors are weaponizing GSocket for stealthy C2,https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/
+2026-11-13,Elastic Security Labs,6,56 AWS API calls in 141 milliseconds: Inside an AI-run intrusion,https://www.elastic.co/security-labs/threat-command/cyberstrikeai-aws-cloudtrail-intrusion
+2026-11-09,Wiz,7,Trusted by Default: Qubole Cross-Account Access Abused in the Wild,https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild
+2026-11-11,Securelist,12,"Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand",https://securelist.com/citrus-ransomware/121879/
+2026-11-13,Securelist,19,Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purpos,https://securelist.com/esxi-ransomware/121959/
+2026-11-13,gbhackers.,24,T-SQL Being Abused to Deliver Malware on Compromised MS SQL Servers | FortiGuard Labs,https://www.fortinet.com/blog/threat-research/t-sql-being-abused-to-deliver-malware-on-compromised-ms-sql-servers
+2026-11-13,gbhackers.,67,TypoPrompting: From AI Typos to Malware,https://www.island.io/blog/typoprompting-from-ai-typos-to-malware
+2026-11-11,BleepingComputer,18,Trust Center | Advisories | ConnectWise,https://www.connectwise.com/company/trust/advisories
+2026-11-12,BleepingComputer,10,4EverAble2Shell exploited: Monero miners on live N-central,https://huntback.io/blog/ncentral-4everable2shell-miners-on-live-servers
+2026-11-12,BleepingComputer,7,wfx-loot campaign pushes CI secret stealer to tens of thousands of repositories,https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories
+2026-11-12,BleepingComputer,17,ScreenConnect Attack: SCKit Turns Remote Support Into an Attack Platform - Blackpoint Cyber,https://blackpointcyber.com/blog/screenconnect-attack-sckit/
+2026-11-10,DarkReading,176,Countering misuse of AI: September 2026 / Anthropic \ Anthropic,https://www.anthropic.com/threat-intelligence-report-september-2026
+2026-11-10,DarkReading,9,VAPOR PANDA Uses AI-Driven ARTEX to Grow Global Espionage Campaign,https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/
+2026-11-10,DarkReading,38,ARTEX: Agentic Asbestos - Censys,https://censys.com/blog/artex-agentic-asbestos/
+2026-11-11,DarkReading,11,"N-central Security Update – August 10, 2026 - N-able",https://www.n-able.com/blog/n-central-security-update-august-10-2026
+2026-11-11,DarkReading,4,N-central 2026.3 Hotfix 1 – Mitigation for CVE-2026-18577  | N-able Status,https://status.n-able.com/2026/08/02/n-central-2026-3-hotfix-1-mitigation-for-cve-2026-18577/
+2026-11-12,DarkReading,7,How we defended against an AI-driven attack - Eye Research,https://labs.eye.security/how-we-defended-against-an-ai-driven-attack/
+2026-11-10,The Hacker News,5,N-able N-central Critical Vulnerabilities: What We Know So Far,https://blog.previdian.com/n-able-n-central-critical-vulnerabilities-what-we-know-so-far/
+2026-11-10,The Hacker News,8,LAST HEIST: New APT-C-36 infection wave in LATAM - ZenoX - Artificial Intelligence for Cyber Securit,https://zenox.ai/en/last-heist-new-apt-c-36-infection-wave-in-latam/
+2026-11-10,The Hacker News,6,SVGs: the hacker’s canvas | Cloudflare,https://www.cloudflare.com/en-in/cloudforce-one/research/svgs-the-hackers-canvas/
+2026-11-10,The Hacker News,14,Weaponized SVGs: Inside a global phishing campaign targeting financial institutions,https://www.ibm.com/think/x-force/weaponized-svgs-inside-a-global-phishing-campaign-targeting-financial-institutions
+2026-11-11,The Hacker News,23,Operation Snowball: Inside an Autonomous AI Intrusion Campaign,https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign
+2026-11-11,The Hacker News,10,ZeroQlik Returns: Qlik Sense Exploitation | Cynet Research,https://www.cynet.com/security-foundations/attack-techniques/exploiting-Qlik-Sense-servers/
+2026-11-12,The Hacker News,23,"wfx: GitHub Actions Credential Stealer Hits 8,000 Repos - Real-time Open Source Software Supply Chai",https://safedep.io/blog/github-actions-wfx-credential-stealer
+2026-11-12,The Hacker News,14,Off the Rails: Inside an Exposed Silent Lynx Server | CloudSEK,https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server
+2026-11-12,The Hacker News,27,SEO Poisoning Campaign Delivers Armorsteal Malware | ThreatLabz,https://www.zscaler.com/blogs/security-research/seo-poisoning-campaign-delivers-new-armorsteal-malware
+2026-11-12,The Hacker News,57,Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto | Seqrite,https://www.seqrite.com/blog/armorsteal-unpacked-breaking-down-a-python-malware-kit-that-steals-data-and-mines-crypto/
+2026-11-12,The Hacker News,80,Inside REVSTEALER's Growing Distribution Ecosystem — Akatsuki Legion,https://akatsukilegion.com/post.php?slug=inside-revstealer-s-growing-distribution-ecosystem
+2026-11-12,The Hacker News,11,Sekoia Honeypot Captures an Attack on GenAI Infrastructure,https://www.sekoia.com/blog/a-honeypots-tale-deconstructing-an-attack-on-genai-infrastructure
+2026-11-12,The Hacker News,134,"BlackApex, SPY, and Counting: The Emerging Wave of Vibe-Coded Phishing Kits",https://www.levelblue.com/blogs/spiderlabs-blog/blackapex-spy-and-counting-the-emerging-wave-of-vibe-coded-phishing-kits
+2026-11-13,The Hacker News,54,"BlueNoroff Uses ClickFix, Fileless PowerShell, and AI-Generated Fake Zoom Meetings to Target Web3 Se",https://arcticwolf.com/resources/blog/bluenoroff-uses-clickfix-fileless-powershell-and-ai-generated-zoom-meetings-to-target-web3-sector/
+2026-11-13,The Hacker News,43,Contagious Interview: Trojanized macOS Installers,https://www.jamf.com/blog/contagious-interview-trojanized-macos-installers/
+2026-11-13,The Hacker News,6,Contagious Interview - One Interview Away From Infection - JFrog Security Research,https://research.jfrog.com/post/accurasofthire-fake-interview/
