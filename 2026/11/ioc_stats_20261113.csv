@@ -44,3 +44,6 @@ date,vendor,iocs,title,blog url
 2026-11-13,The Hacker News,54,"BlueNoroff Uses ClickFix, Fileless PowerShell, and AI-Generated Fake Zoom Meetings to Target Web3 Se",https://arcticwolf.com/resources/blog/bluenoroff-uses-clickfix-fileless-powershell-and-ai-generated-zoom-meetings-to-target-web3-sector/
 2026-11-13,The Hacker News,43,Contagious Interview: Trojanized macOS Installers,https://www.jamf.com/blog/contagious-interview-trojanized-macos-installers/
 2026-11-13,The Hacker News,6,Contagious Interview - One Interview Away From Infection - JFrog Security Research,https://research.jfrog.com/post/accurasofthire-fake-interview/
+2026-11-13,Huntress Labs,11,GeoVision Camera Software Abused to Deploy XMRig Cryptominer,https://www.huntress.com/blog/geovision-camera-software-xmrig-cryptominer
+2026-11-14,Huntress Labs,11,Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers,https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect
+2026-11-13,Microsoft Security Blog,27,SCKit abuses ScreenConnect to deploy remote access and target technician sessions,https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/
