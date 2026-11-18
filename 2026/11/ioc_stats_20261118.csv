@@ -59,3 +59,10 @@ date,vendor,iocs,title,blog url
 2026-11-17,The Hacker News,20,Living off GitHub: From Gmail Reply-Baiting to Fileless Exfiltration – Лабораторія цифрової безпеки,https://dslua.org/publications/living-off-github-from-gmail-reply-baiting-to-fileless-exfiltration/
 2026-11-17,The Hacker News,164,Kimsuky’s Operation GitPower Targeting Ukraine Behind the Front Lines of Russia’s War,https://www.genians.co.kr/en/blog/threat_intelligence/operation-gitpower
 2026-11-17,The Hacker News,83,Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency | Pro,https://www.proofpoint.com/us/blog/threat-insight/dont-fear-repo-unkdeaddrop-phishing-campaign-targets-developers-steal
+2026-11-18,Cisco Talos,4,UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infosteali,https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/
+2026-11-18,Symantec Threat Intelligence,23,Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools,https://www.security.com/threat-intelligence/power-management-software-attack-vector
+2026-11-18,Securelist,11,The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting,https://securelist.com/auditteam-opsagent-forced-audit/122031/
+2026-11-18,The Hacker News,12,Two malicious agent-framework releases hit PyPI in 33 minutes,https://www.aikido.dev/blog/two-malicious-agent-framework-releases-hit-pypi-in-33-minutes
+2026-11-18,The Hacker News,10,Microsoft agent-framework Compromised Twice on PyPI | SafeDep,https://safedep.io/blog/microsoft-agent-framework-pypi-compromise
+2026-11-18,The Hacker News,10,Microsoft’s agent-framework PyPI package Compromised with Credential Stealer | Socket,https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer
+2026-11-18,The Hacker News,30,EggStreme Malware: Rebuilt Under Scrutiny,http://businessinsights.bitdefender.com/eggstreme-malware-revises-architecture-infrastructure
