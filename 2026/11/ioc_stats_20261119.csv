@@ -56,3 +56,5 @@ date,vendor,iocs,title,blog url
 2026-11-18,The Hacker News,10,Microsoft agent-framework Compromised Twice on PyPI | SafeDep,https://safedep.io/blog/microsoft-agent-framework-pypi-compromise
 2026-11-18,The Hacker News,10,Microsoft’s agent-framework PyPI package Compromised with Credential Stealer | Socket,https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer
 2026-11-18,The Hacker News,30,EggStreme Malware: Rebuilt Under Scrutiny,http://businessinsights.bitdefender.com/eggstreme-malware-revises-architecture-infrastructure
+2026-11-19,The Hacker News,40,"PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls",https://hunt.io/blog/php2shell-honeypot-shells-root-palo-alto-firewalls
+2026-11-19,The Hacker News,15,"Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-ce",https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited/
