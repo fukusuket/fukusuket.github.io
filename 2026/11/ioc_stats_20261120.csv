@@ -44,3 +44,15 @@ date,vendor,iocs,title,blog url
 2026-11-19,The Hacker News,40,"PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls",https://hunt.io/blog/php2shell-honeypot-shells-root-palo-alto-firewalls
 2026-11-19,The Hacker News,15,"Rapid7 Detected Exploitation of CVE-2026-90436 against Atlassian Confluence Data Center, N-able N-ce",https://www.rapid7.com/blog/post/etr-rapid7-detected-exploitation-of-cve-2026-90436-against-atlassian-confluence-data-center-n-able-n-central-also-exploited/
 2026-11-20,The Hacker News,15,From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases - ,https://asec.ahnlab.com/en/95775/
+2026-11-20,BleepingComputer,64,Linked content from https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-,https://www.verizon.com/business/resources/reports/2025-dbir-data-breach-investigations-report.pdf
+2026-11-20,The Hacker News,23,ROMULUS Campaign: CNCMachineRMS RAT Analysis | Blackpoint Cyber,https://blackpointcyber.com/blog/romulus-cncmachinerms/
+2026-11-20,The Hacker News,31,Analysis of the Slaiclind Malicious Campaign,https://www.stormshield.com/news/cti-payload-slaiclind-campaign/
+2026-11-20,The Hacker News,27,Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware | Huntress,https://www.huntress.com/blog/amazon-clickfix-finger
+2026-11-20,The Hacker News,11,CrocoRat Adds a New Twist to ClickFix with DNS Payload Delivery - Flare,https://flare.io/learn/resources/blog/crocorat-clickfix-dns-payload-delivery
+2026-11-20,The Hacker News,35,A ClickFix cluster: Observed activity from recent ClickFix campaigns,https://fieldeffect.com/blog/clickfix-cluster-observed-activity-recent-campaigns
+2026-11-20,The Hacker News,101,From ClickFix to C2: Comparative Analysis of Two Malware Loaders - Forescout,https://www.forescout.com/blog/from-clickfix-to-c2-comparative-analysis-of-two-malware-loaders/
+2026-11-20,The Hacker News,15,Analysing a novel malicious redirect and cloaking technique,https://pushsecurity.com/blog/adception-malvertising-another-search-engines-search-results
+2026-11-20,The Hacker News,23,Hunting ClickFix Attacks: Deep Dive into One Trick Across Four Different Payloads - Flare | Identity,https://flare.io/learn/resources/blog/hunting-clickfix-attacks-deep-dive
+2026-11-20,The Hacker News,15,Microsoft Lookalike Domain in ClickFix Attack - Flare,https://flare.io/learn/resources/blog/microsoft-lookalike-domain-clickfix-campaign
+2026-11-20,The Hacker News,13,Beyond the clipboard: The evolving tradecraft of ClickFix | Huntress,https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix
+2026-11-20,piyolog,4,Ruby2Shell (CVE-2026-132825): Heap Overflow in Ruby | Semgrep,https://semgrep.dev/blog/2026/ruby2shell-cve-2026-132825/
