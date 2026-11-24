@@ -51,3 +51,8 @@ date,vendor,iocs,title,blog url
 2026-11-23,The Hacker News,64,"Living Off Trusted Software: ScreenConnect Abuse Across Phishing, Search, and RMM Chains | TrendAI",https://www.trendaisecurity.com/en/resources-insights/trendai-security-blog/screenconnect-abuse
 2026-11-23,The Hacker News,11,Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers ,https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect
 2026-11-20,piyolog,4,Ruby2Shell (CVE-2026-132825): Heap Overflow in Ruby | Semgrep,https://semgrep.dev/blog/2026/ruby2shell-cve-2026-132825/
+2026-11-24,Check Point,120,Volant Manticore: Flying Under the Radar,https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/
+2026-11-24,Unit42(Palo Alto Networks),8,Recent Trends and Tactics of Agentic AI Attacks,https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
+2026-11-24,The Hacker News,15,On the hunt for ARTEX: understanding agentic attacks in AWS environments | Datadog Security Labs,https://securitylabs.datadoghq.com/articles/artex-agentic-attacks-aws-environments/
+2026-11-24,The Hacker News,25,ARTEX Traffic - Previdian Threat Intelligence Report November 2026,https://blog.previdian.com/artex-traffic-previdian-threat-intelligence-report-november-2026/
+2026-11-24,The Hacker News,76,Threat Researcher’s Notebook: SSO Vishing Campaign Associated with Emerging “Inception” Extortion Gr,https://www.reversinglabs.com/blog/threat-researchers-notebook-sso-vishing-campaign-associated-with-emerging-inception-extortion-group
