@@ -35,3 +35,14 @@ date,vendor,iocs,title,blog url
 2026-11-25,The Hacker News,15,Inside UNC6671's Browser Implant · deoxy,https://deoxy.net/blog/inside-unc6671s-browser-implant/
 2026-11-25,The Hacker News,15,Inside a phishing panel used by ShinyHunters and BlackFile,https://pushsecurity.com/blog/inside-criminal-phishing-panel
 2026-11-20,piyolog,4,Ruby2Shell (CVE-2026-132825): Heap Overflow in Ruby | Semgrep,https://semgrep.dev/blog/2026/ruby2shell-cve-2026-132825/
+2026-11-26,BleepingComputer,14,SYS010 Malware Targets Meta Business Accounts,https://www.bitdefender.com/en-au/blog/labs/sys010-reloaded-malvertising-campaign-targeting-meta-business-accounts
+2026-11-24,DarkReading,11,Webworm: New burrowing techniques,https://www.welivesecurity.com/en/eset-research/webworm-new-burrowing-techniques/
+2026-11-25,DarkReading,46,13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments | Socket,https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments
+2026-11-26,The Hacker News,16,When patch day comes too late: MiCollab flaws exploited before disclosure | Accenture APEX Labs,https://accenture.github.io/cyber-intelligence/micollab-exploitation/
+2026-11-26,The Hacker News,40,PolinRider Moves to Python with an Ethereum Calldata Loader | SafeDep,https://safedep.io/blog/polinrider-python-loader-ethereum-calldata
+2026-11-26,The Hacker News,6,Contagious Interview - One Interview Away From Infection - JFrog Security Research,https://research.jfrog.com/post/accurasofthire-fake-interview/
+2026-11-26,The Hacker News,15,PolinRider is A/B Testing its Way Past Your Detections | OpenSourceMalware,https://opensourcemalware.com/blog/polinrider-is-a-b-testing-its-way-past-your-detections
+2026-11-26,The Hacker News,3,PolinRider: Malicious Coding Assignments Steal Developer Secrets | Abnormal AI,https://abnormal.ai/blog/polinrider-fake-coding-assignments
+2026-11-26,The Hacker News,11,The Take-Home Test That Runs on Your Work Laptop: Inside the AccuraSoftHire Fake Interview Campaign ,https://www.stepsecurity.io/blog/accurasofthire-fake-interview-developer-machines
+2026-11-26,The Hacker News,46,PolinRider Switches to Ethereum C2 in 30+ Repositories | SafeDep,https://safedep.io/polinrider-ethereum-c2-github-repositories/
+2026-11-26,The Hacker News,6,PolinRider Returns: Hijacked npm Packages Use Ethereum Blockchain to Conceal Malware Infrastructure ,https://www.ox.security/blog/polinrider-returns-hijacked-npm-packages-use-ethereum-blockchain-to-conceal-malware-infrastructure/
