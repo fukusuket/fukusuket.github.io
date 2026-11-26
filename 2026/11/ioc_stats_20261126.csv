@@ -1,0 +1,37 @@
+date,vendor,iocs,title,blog url
+2026-11-24,Check Point,120,Volant Manticore: Flying Under the Radar,https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/
+2026-11-20,Unit42(Palo Alto Networks),63,Dialing for Data: Inside the Com’s High-Profile Heists,https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
+2026-11-24,Unit42(Palo Alto Networks),8,Recent Trends and Tactics of Agentic AI Attacks,https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
+2026-11-23,Wiz,77,Agentic Attacks: In The Wild,https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks
+2026-11-24,BleepingComputer,76,Threat Researcher’s Notebook: SSO Vishing Campaign Associated with Emerging “Inception” Extortion Gr,http://www.reversinglabs.com/blog/threat-researchers-notebook-sso-vishing-campaign-associated-with-emerging-inception-extortion-group
+2026-11-20,The Hacker News,15,From Endpoint to Funhouse: Evolution of Ransomware Families and Kimsuky-Linked Distribution Cases - ,https://asec.ahnlab.com/en/95775/
+2026-11-20,The Hacker News,32,Typosquatters Copy Big Brands’ New Domains Within a Day of Registration | SECURITY.COM,https://www.security.com/threat-intelligence/typosquatting-new-brand-domains
+2026-11-20,The Hacker News,23,ROMULUS Campaign: CNCMachineRMS RAT Analysis | Blackpoint Cyber,https://blackpointcyber.com/blog/romulus-cncmachinerms/
+2026-11-20,The Hacker News,31,Analysis of the Slaiclind Malicious Campaign,https://www.stormshield.com/news/cti-payload-slaiclind-campaign/
+2026-11-20,The Hacker News,27,Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware | Huntress,https://www.huntress.com/blog/amazon-clickfix-finger
+2026-11-20,The Hacker News,11,CrocoRat Adds a New Twist to ClickFix with DNS Payload Delivery - Flare,https://flare.io/learn/resources/blog/crocorat-clickfix-dns-payload-delivery
+2026-11-20,The Hacker News,35,A ClickFix cluster: Observed activity from recent ClickFix campaigns,https://fieldeffect.com/blog/clickfix-cluster-observed-activity-recent-campaigns
+2026-11-20,The Hacker News,101,From ClickFix to C2: Comparative Analysis of Two Malware Loaders - Forescout,https://www.forescout.com/blog/from-clickfix-to-c2-comparative-analysis-of-two-malware-loaders/
+2026-11-20,The Hacker News,15,Analysing a novel malicious redirect and cloaking technique,https://pushsecurity.com/blog/adception-malvertising-another-search-engines-search-results
+2026-11-20,The Hacker News,23,Hunting ClickFix Attacks: Deep Dive into One Trick Across Four Different Payloads - Flare | Identity,https://flare.io/learn/resources/blog/hunting-clickfix-attacks-deep-dive
+2026-11-20,The Hacker News,15,Microsoft Lookalike Domain in ClickFix Attack - Flare,https://flare.io/learn/resources/blog/microsoft-lookalike-domain-clickfix-campaign
+2026-11-20,The Hacker News,13,Beyond the clipboard: The evolving tradecraft of ClickFix | Huntress,https://www.huntress.com/blog/the-evolving-tradecraft-of-clickfix
+2026-11-20,The Hacker News,35,Bazuka: The Fraud Framework That Can Do It All,https://www.threatfabric.com/blogs/bazuka-the-fraud-framework-that-can-do-it-all
+2026-11-23,The Hacker News,17,ARTEX Exposed: Infrastructure Behind the South Korea Bank Hack,https://hunt.io/blog/artex-south-korea-bank-infrastructure
+2026-11-23,The Hacker News,6,56 AWS API calls in 141 milliseconds: Inside an AI-run intrusion,https://www.elastic.co/security-labs/threat-command/cyberstrikeai-aws-cloudtrail-intrusion
+2026-11-23,The Hacker News,14,Off the Rails: Inside an Exposed Silent Lynx Server | CloudSEK,https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server
+2026-11-23,The Hacker News,7,How we defended against an AI-driven attack - Eye Research,https://labs.eye.security/how-we-defended-against-an-ai-driven-attack/
+2026-11-23,The Hacker News,65,How AI Revived a Stalled Attack on a U.S. Retailer | SECURITY.COM,https://www.security.com/threat-intelligence/ai-assisted-attack-us-retailer
+2026-11-23,The Hacker News,20,AI Agents Are Hacking Online Retailers for $25 a Company,https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+2026-11-23,The Hacker News,12,Security Notice: GoodCloud Remote Management Incident - #79 by dja - Announcement - GL.iNet Official,https://forum.gl-inet.com/t/2026-11-20-gl-inet-security-notice-goodcloud-kvm-routers/73056/79
+2026-11-23,The Hacker News,40,CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts | Huntre,https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation
+2026-11-23,The Hacker News,64,"Living Off Trusted Software: ScreenConnect Abuse Across Phishing, Search, and RMM Chains | TrendAI",https://www.trendaisecurity.com/en/resources-insights/trendai-security-blog/screenconnect-abuse
+2026-11-23,The Hacker News,11,Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers ,https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect
+2026-11-24,The Hacker News,15,On the hunt for ARTEX: understanding agentic attacks in AWS environments | Datadog Security Labs,https://securitylabs.datadoghq.com/articles/artex-agentic-attacks-aws-environments/
+2026-11-24,The Hacker News,25,ARTEX Traffic - Previdian Threat Intelligence Report November 2026,https://blog.previdian.com/artex-traffic-previdian-threat-intelligence-report-november-2026/
+2026-11-24,The Hacker News,22,Azure API Management advisory: what to check and how to hunt after recent attacks - Cloud Securitybl,https://anderskristiansen.com/post/2026/apim-legacy-access/
+2026-11-24,The Hacker News,76,Threat Researcher’s Notebook: SSO Vishing Campaign Associated with Emerging “Inception” Extortion Gr,https://www.reversinglabs.com/blog/threat-researchers-notebook-sso-vishing-campaign-associated-with-emerging-inception-extortion-group
+2026-11-25,The Hacker News,53,"Deep Dive: Competing ClickFix Injections - Three Kits, Thirteen Injections, and One Compromised Word",https://urlscan.io/blog/2026/11/19/CompetingClickFixInjections/
+2026-11-25,The Hacker News,15,Inside UNC6671's Browser Implant · deoxy,https://deoxy.net/blog/inside-unc6671s-browser-implant/
+2026-11-25,The Hacker News,15,Inside a phishing panel used by ShinyHunters and BlackFile,https://pushsecurity.com/blog/inside-criminal-phishing-panel
+2026-11-20,piyolog,4,Ruby2Shell (CVE-2026-132825): Heap Overflow in Ruby | Semgrep,https://semgrep.dev/blog/2026/ruby2shell-cve-2026-132825/
