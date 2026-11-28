@@ -1,0 +1,40 @@
+date,vendor,iocs,title,blog url
+2026-11-24,Check Point,120,Volant Manticore: Flying Under the Radar,https://research.checkpoint.com/2026/volant-manticore-flying-under-the-radar/
+2026-11-24,Unit42(Palo Alto Networks),8,Recent Trends and Tactics of Agentic AI Attacks,https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/
+2026-11-23,Wiz,77,Agentic Attacks: In The Wild,https://www.wiz.io/blog/agentic-attacks-artex-offensive-ai-frameworks
+2026-11-26,BleepingComputer,14,SYS010 Malware Targets Meta Business Accounts,https://www.bitdefender.com/en-au/blog/labs/sys010-reloaded-malvertising-campaign-targeting-meta-business-accounts
+2026-11-27,piyolog,15,Incident report: what happened and what customers need to do | Chainstack Blog,https://chainstack.com/security-incident-nov-2026/
+2026-11-27,piyolog,38,ARTEX: Agentic Asbestos - Censys,https://censys.com/blog/artex-agentic-asbestos/
+2026-11-23,The Hacker News,17,ARTEX Exposed: Infrastructure Behind the South Korea Bank Hack,https://hunt.io/blog/artex-south-korea-bank-infrastructure
+2026-11-23,The Hacker News,6,56 AWS API calls in 141 milliseconds: Inside an AI-run intrusion,https://www.elastic.co/security-labs/threat-command/cyberstrikeai-aws-cloudtrail-intrusion
+2026-11-23,The Hacker News,14,Off the Rails: Inside an Exposed Silent Lynx Server | CloudSEK,https://www.cloudsek.com/blog/off-the-rails-inside-an-exposed-silent-lynx-server
+2026-11-23,The Hacker News,7,How we defended against an AI-driven attack - Eye Research,https://labs.eye.security/how-we-defended-against-an-ai-driven-attack/
+2026-11-23,The Hacker News,65,How AI Revived a Stalled Attack on a U.S. Retailer | SECURITY.COM,https://www.security.com/threat-intelligence/ai-assisted-attack-us-retailer
+2026-11-23,The Hacker News,20,AI Agents Are Hacking Online Retailers for $25 a Company,https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company
+2026-11-23,The Hacker News,12,Security Notice: GoodCloud Remote Management Incident - #79 by dja - Announcement - GL.iNet Official,https://forum.gl-inet.com/t/2026-11-20-gl-inet-security-notice-goodcloud-kvm-routers/73056/79
+2026-11-23,The Hacker News,40,CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts | Huntre,https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation
+2026-11-23,The Hacker News,64,"Living Off Trusted Software: ScreenConnect Abuse Across Phishing, Search, and RMM Chains | TrendAI",https://www.trendaisecurity.com/en/resources-insights/trendai-security-blog/screenconnect-abuse
+2026-11-23,The Hacker News,11,Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers ,https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect
+2026-11-24,The Hacker News,15,On the hunt for ARTEX: understanding agentic attacks in AWS environments | Datadog Security Labs,https://securitylabs.datadoghq.com/articles/artex-agentic-attacks-aws-environments/
+2026-11-24,The Hacker News,25,ARTEX Traffic - Previdian Threat Intelligence Report November 2026,https://blog.previdian.com/artex-traffic-previdian-threat-intelligence-report-november-2026/
+2026-11-24,The Hacker News,22,Azure API Management advisory: what to check and how to hunt after recent attacks - Cloud Securitybl,https://anderskristiansen.com/post/2026/apim-legacy-access/
+2026-11-24,The Hacker News,76,Threat Researcher’s Notebook: SSO Vishing Campaign Associated with Emerging “Inception” Extortion Gr,https://www.reversinglabs.com/blog/threat-researchers-notebook-sso-vishing-campaign-associated-with-emerging-inception-extortion-group
+2026-11-25,The Hacker News,53,"Deep Dive: Competing ClickFix Injections - Three Kits, Thirteen Injections, and One Compromised Word",https://urlscan.io/blog/2026/11/19/CompetingClickFixInjections/
+2026-11-25,The Hacker News,63,Dialing for Data: Inside the Com’s High-Profile Heists,https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/
+2026-11-25,The Hacker News,15,Inside UNC6671's Browser Implant · deoxy,https://deoxy.net/blog/inside-unc6671s-browser-implant/
+2026-11-25,The Hacker News,15,Inside a phishing panel used by ShinyHunters and BlackFile,https://pushsecurity.com/blog/inside-criminal-phishing-panel
+2026-11-26,The Hacker News,46,13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments | Socket,https://socket.dev/blog/malicious-nuget-packages-fake-job-assessments
+2026-11-26,The Hacker News,16,When patch day comes too late: MiCollab flaws exploited before disclosure | Accenture APEX Labs,https://accenture.github.io/cyber-intelligence/micollab-exploitation/
+2026-11-26,The Hacker News,40,PolinRider Moves to Python with an Ethereum Calldata Loader | SafeDep,https://safedep.io/blog/polinrider-python-loader-ethereum-calldata
+2026-11-26,The Hacker News,6,Contagious Interview - One Interview Away From Infection - JFrog Security Research,https://research.jfrog.com/post/accurasofthire-fake-interview/
+2026-11-26,The Hacker News,15,PolinRider is A/B Testing its Way Past Your Detections | OpenSourceMalware,https://opensourcemalware.com/blog/polinrider-is-a-b-testing-its-way-past-your-detections
+2026-11-26,The Hacker News,3,PolinRider: Malicious Coding Assignments Steal Developer Secrets | Abnormal AI,https://abnormal.ai/blog/polinrider-fake-coding-assignments
+2026-11-26,The Hacker News,11,The Take-Home Test That Runs on Your Work Laptop: Inside the AccuraSoftHire Fake Interview Campaign ,https://www.stepsecurity.io/blog/accurasofthire-fake-interview-developer-machines
+2026-11-26,The Hacker News,46,PolinRider Switches to Ethereum C2 in 30+ Repositories | SafeDep,https://safedep.io/polinrider-ethereum-c2-github-repositories/
+2026-11-27,The Hacker News,7,SleeperWidget: How Ad-Driven Installs Activate Hidden Browser Extension Behavior | Microsoft Browser,https://microsoftedge.github.io/edgevr/posts/SleeperWidget-How-Ad-Driven-Installs-Activate-Hidden-Browser-Extension-Behavior/
+2026-11-27,The Hacker News,12,"Open by Default, Already Occupied: Threat Actors are Renting your Compute",https://www.rapid7.com/blog/post/tr-self-hosted-ai-renting-compute-exposed-servers/
+2026-11-27,The Hacker News,18,Inside SilentNET: Analysis of a Java-Based Infostealer with Blockchain-Based C2,https://www.malwation.com/blog/inside-silentnet-analysis-of-a-java-based-infostealer-with-blockchain-based-c2
+2026-11-27,The Hacker News,102,“CartJacked” – One in 195 Online Shops Was Hijacked,https://guard.io/labs/cartjacked---one-in-195-online-shops-we-scanned-was-hijacked
+2026-11-27,The Hacker News,23,Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools | SECUR,https://www.security.com/threat-intelligence/power-management-software-attack-vector
+2026-11-27,The Hacker News,32,Software Supply Chain Attack via the Official SoftwareOK Website: Tampering with Q-Dir and DesktopOK,https://asec.ahnlab.com/en/96827/
+2026-11-27,The Hacker News,19,Vinci RAT Delivered Through a Malicious Microsoft Store App | eSentire,https://www.esentire.com/blog/vinci-rat-lives-in-the-microsoft-store
